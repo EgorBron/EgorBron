@@ -1,4 +1,5 @@
-### Hi there 👋
+# Not that serious a programmer
+I am serious only in these sentences. Like the serious table from The Stanley Parable. My code, on the other hand, is nowhere near as serious as he is.
 
 <!--
 **EgorBron/EgorBron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
