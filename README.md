@@ -1,7 +1,7 @@
 # EgorBron // Егор Брон 
 > Not that serious a programmer. I am serious only in these sentences. Like the serious table from The Stanley Parable. My code, on the other hand, is nowhere near as serious as he is.
 
-Hello and welcome to my Github profile! There you can fin some info about me and social links. 
+Hello and welcome to my Github profile! Here you can find some info about me and social links. 
 
 ### About me
 Strange and lazy but kind guy. 
