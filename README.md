@@ -9,7 +9,9 @@ I'm from Russia. Know russian language as native, now learning English<!--, want
 Junior in Python, currently learning C# and C++ langs. 
 
 ### Social links
-Discord: [Егор Брон#3443](https://discord.com/users/555638466365489172)
+[Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172)
+[VK](https://vk.com/egorbronn) (inactive) 
+[YouTube](https://www.youtube.com/channel/UCWd7FjRN4EM6D7tiJUv6lWg) 
 
 More links will appear soon... 
 
