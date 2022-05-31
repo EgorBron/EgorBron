@@ -21,7 +21,7 @@ Junior in Python, currently learning C# and C++ langs.
 More links will appear soon... 
 
 
-## Github Stats
+### Github Stats (not fully precise)
 ![Stats](https://github-readme-stats.vercel.app/api?username=EgorBron&show_icons=true&theme=tokyonight&bg_color=50,2813fb,6052ff&title_color=ebebeb&text_color=cbcbcb)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorBron&layout=compact&theme=codeSTACKr)
