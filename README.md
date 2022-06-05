@@ -22,6 +22,11 @@ More links will appear soon...
 
 <details><summary>cool guys</summary>
 
+[@TheStngularity](https://github.com/TheStngularity) 
+
+[@Jabka-M](https://github.com/Jabka-M)
+
+[@SashaKilin](https://github.com/SashaKilin)
 </details>
 
 ### Github Stats (not fully precise)
