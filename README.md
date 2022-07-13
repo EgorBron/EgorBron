@@ -4,9 +4,10 @@
 Hello and welcome to my Github profile! Here you can find some info about me and social links. 
 
 ### About me
+My name is Yegor (Егор), but I prefer to write "Egor". 
 Strange and lazy but kind guy. 
 I'm from Russia. Know russian language as native, now learning English<!--, want to learn Interslavic and Japanese-->.
-Junior in Python, currently learning C# and C++ langs. 
+Junior (or novice?) in Python and C#, currently learning Java/Kotlin and C/C++ langs. 
 
 ### Social links
 [Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172)
