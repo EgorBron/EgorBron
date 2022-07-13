@@ -1,4 +1,4 @@
-# EgorBron // Егор Брон 
+# EgorBron // Егор Брон ![Avatar](https://avatars.githubusercontent.com/u/71507444?s=64) 
 > Not that serious a programmer. I am serious only in these sentences. Like the serious table from The Stanley Parable. My code, on the other hand, is nowhere near as serious as he is.
 
 Hello and welcome to my Github profile! Here you can find some info about me and social links. 
