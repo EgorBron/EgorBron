@@ -31,6 +31,8 @@ More links will appear soon...
 [@Jabka-M](https://github.com/Jabka-M)
 
 [@SashaKilin](https://github.com/SashaKilin)
+
+[@NeverMindDev](https://github.com/NeverMindDev) 
 </details>
 
 ### Github Stats (not fully precise)
