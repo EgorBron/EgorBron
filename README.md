@@ -2,6 +2,9 @@
 > Not that serious a programmer. I am serious only in these sentences. Like the serious table from The Stanley Parable. My code, on the other hand, is nowhere near as serious as he is.
 
 Hello and welcome to my Github profile! Here you can find some info about me and social links. 
+<!-- todo
+<img src="https://lanyard-profile-readme.vercel.app/api/555638466365489172?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...">
+-->
 
 ### About me
 My name is Yegor (Егор), but I prefer to write "Egor". 
