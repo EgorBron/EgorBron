@@ -20,6 +20,7 @@ Junior (or novice?) in Python and C#, currently learning Java/Kotlin and C/C++ l
 [VK](https://vk.com/egorbronn) (inactive) 
 
 [YouTube](https://www.youtube.com/channel/UCWd7FjRN4EM6D7tiJUv6lWg) 
+[Steam](https://steamcommunity.com/id/EgorBronn/)
 
 
 More links will appear soon... 
