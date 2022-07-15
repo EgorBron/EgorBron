@@ -42,10 +42,8 @@ More links will appear soon...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorBron&layout=compact&theme=codeSTACKr)
 #### Wakatime
-<!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/EgorBron/EgorBron/blob/master/images/stat.svg"
+  alt="Wakatime stats"
+/>
