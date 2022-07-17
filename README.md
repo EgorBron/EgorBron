@@ -23,8 +23,9 @@ Junior (or novice?) in Python and C#, currently learning Java/Kotlin and C/C++ l
 
 [Steam](https://steamcommunity.com/id/EgorBronn/)
 
+[osu!profile](https://osu.ppy.sh/users/15136301) 
 
-More links will appear soon... 
+*More links will appear soon...*
 
 <details><summary>cool guys</summary>
 
@@ -37,7 +38,8 @@ More links will appear soon...
 [@NeverMindDev](https://github.com/NeverMindDev) 
 </details>
 
-### Github Stats (not fully precise)
+### Statistics (not fully precise)
+#### GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=EgorBron&show_icons=true&theme=tokyonight&bg_color=50,2813fb,6052ff&title_color=ebebeb&text_color=cbcbcb)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorBron&layout=compact&theme=codeSTACKr)
