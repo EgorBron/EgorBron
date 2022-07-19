@@ -1,4 +1,4 @@
-6 name: Waka Readme
+name: Waka Readme
 
 on:
   workflow_dispatch:
@@ -14,6 +14,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
-          COMMIT_MESSAGE: Updated the Wakatime section in Readme
+          COMMIT_MESSAGE: "Updated the Wakatime section in Readme" 
           SHOW_EDITORS: True
           SHOW_PROJECTS: True
