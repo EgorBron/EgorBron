@@ -14,6 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
-          COMMIT_MESSAGE: "Updated the Wakatime section in Readme" 
-          SHOW_EDITORS: True
-          SHOW_PROJECTS: True
+          COMMIT_MSG: "Updated the Wakatime section in Readme" 
+          args:
+              SHOW_EDITORS: True
+              SHOW_PROJECTS: True
