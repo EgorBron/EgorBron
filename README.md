@@ -12,6 +12,8 @@ Strange and lazy but kind guy.
 I'm from Russia. Know russian language as native, now learning English<!--, want to learn Interslavic and Japanese-->.
 Junior (or novice?) in Python and C#, currently learning Java/Kotlin and C/C++ langs. 
 
+###### гори фронтенд в аду... 
+
 ### Social links
 [Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172)
 
