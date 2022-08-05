@@ -48,6 +48,7 @@ Junior (or novice?) in Python and C#, currently learning Java/Kotlin and C/C++ l
 #### Wakatime
 
 <img
-  src="https://github.com/EgorBron/EgorBron/blob/master/images/stat.svg"
+  src="https://wakatime.com/share/@0d335b7c-5fc4-4716-9e58-4e0d11be214d/6a92ff98-cedd-43d0-a2d5-6f09fc76eaec.svg"
   alt="Wakatime stats"
+  width=500
 />
