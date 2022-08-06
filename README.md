@@ -40,6 +40,10 @@ Junior (or novice?) in Python and C#, currently learning Java/Kotlin and C/C++ l
 [@NeverMindDev](https://github.com/NeverMindDev) 
 </details>
 
+#### Discord Activity
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/555638466365489172?idleMessage=Doing%20nothing)](https://discord.com/users/555638466365489172)
+
 ### Statistics (not fully precise)
 #### GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=EgorBron&show_icons=true&theme=tokyonight&bg_color=50,2813fb,6052ff&title_color=ebebeb&text_color=cbcbcb)
