@@ -12,7 +12,23 @@ Strange and lazy but kind guy.
 I'm from Russia. Know russian language as native, now learning English<!--, want to learn Interslavic and Japanese-->.
 Junior (or novice?) in Python and C#, currently learning Java/Kotlin and C/C++ langs. 
 
-###### гори фронтенд в аду... 
+### Maintained projects
+I'm currently maintainig following projects:
+<details><summary>click to reveal</summary>
+  
+* [DESrv (private)](https://github.com/Blusutils/DESrv) - Dedicated External Server.
+  
+* [Niquid (private)]() - yet another logic game.
+  
+* [AutoJacksParty (private)](https://github.com/EgorBron/JacksPartyV2) - Automated YouTube livestream for Jackbox Party Packs
+  
+* [dumpall](https://github.com/EgorBron/dumpall) - Discord group dumper.
+  
+* [captuREEE (private)](https://github.com/Blusutils/captuREEE) - *no info*
+  
+* [Blusutils Python library](https://github.com/Blusutils/blusutilspy) - library with random functionality.
+  
+</details>
 
 ### Social links
 [Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172)
