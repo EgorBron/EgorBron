@@ -43,6 +43,8 @@ I'm currently maintainig following projects:
 
 [osu!profile](https://osu.ppy.sh/users/15136301) 
 
+[DonationAlerts](https://www.donationalerts.com/c/egorbron) 
+
 *More links will appear soon...*
 
 <details><summary>cool guys</summary>
