@@ -24,9 +24,10 @@ I'm currently maintainig following projects:
   
 * [dumpall](https://github.com/EgorBron/dumpall) - Discord group dumper.
   
-* [captuREEE (private)](https://github.com/Blusutils/captuREEE) - *no info*
+* [captuREEE (private)](https://github.com/Blusutils/captuREEE) - mocap?
   
 * [Blusutils Python library](https://github.com/Blusutils/blusutilspy) - library with random functionality.
+* [SocketSaber](https://github.com/EgorBron/SocketSaber) - library what allows you to open localhost TCP socket with lots of your current BS activity
   
 </details>
 
