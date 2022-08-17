@@ -31,20 +31,20 @@ I'm currently maintainig following projects:
   
 </details>
 
-### Social links
+### Social links (in order of speed of reply)
 [Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172)
 
 [Telegram](https://t.me/egorbronn)
 
-[VK](https://vk.com/egorbronn) (inactive) 
-
 [YouTube](https://www.youtube.com/channel/UCWd7FjRN4EM6D7tiJUv6lWg) 
+
+[DonationAlerts](https://www.donationalerts.com/c/egorbron) 
 
 [Steam](https://steamcommunity.com/id/EgorBronn/)
 
-[osu!profile](https://osu.ppy.sh/users/15136301) 
+[VK](https://vk.com/egorbronn) (inactive, noreply) 
 
-[DonationAlerts](https://www.donationalerts.com/c/egorbron) 
+[osu!profile](https://osu.ppy.sh/users/15136301) (noreply)
 
 *More links will appear soon...*
 
