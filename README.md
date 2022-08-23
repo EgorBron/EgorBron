@@ -16,19 +16,23 @@ Junior (or novice?) in Python and C#, currently learning Java/Kotlin and C/C++ l
 I'm currently maintainig following projects:
 <details><summary>click to reveal</summary>
   
-* [DESrv (private)](https://github.com/Blusutils/DESrv) - Dedicated External Server.
+* [DESrv (private, but will open soon)](https://github.com/Blusutils/DESrv) - Dedicated External Server
   
-* [Niquid (private)]() - yet another logic game.
+* Niquid (private) - yet another logic game
   
 * [AutoJacksParty (private)](https://github.com/EgorBron/JacksPartyV2) - Automated YouTube livestream for Jackbox Party Packs
   
-* [dumpall](https://github.com/EgorBron/dumpall) - Discord group dumper.
+* [dumpall](https://github.com/EgorBron/dumpall) - Discord group dumper
   
 * [captuREEE (private)](https://github.com/Blusutils/captuREEE) - mocap?
   
-* [Blusutils Python library](https://github.com/Blusutils/blusutilspy) - library with random functionality.
-* [SocketSaber](https://github.com/EgorBron/SocketSaber) - library what allows you to open localhost TCP socket with lots of your current BS activity
-  
+* [Blusutils Python library](https://github.com/Blusutils/blusutilspy) - library with random functionality
+
+* [SocketSaber](https://github.com/EgorBron/SocketSaber) - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
+
+* [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate) - simple page for submiting and hosting translation. Like Crowdin, but open and not Crowdin
+
+* [anekos](https://github.com/EgorBron/anekos) - simple and shitty async Nekos.life API interactor 
 </details>
 
 ### Social links (in order of speed of reply)
