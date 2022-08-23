@@ -16,7 +16,7 @@ Junior (or novice?) in Python and C#, currently learning Java/Kotlin and C/C++ l
 I'm currently maintainig following projects:
 <details><summary>click to reveal</summary>
   
-* [DESrv (private, but will open soon)](https://github.com/Blusutils/DESrv) - Dedicated External Server
+* [DESrv (private, but will open soon)](https://github.com/Blusutils/DESrv) - Dedicated Extendable Server
   
 * Niquid (private) - yet another logic game
   
@@ -30,7 +30,7 @@ I'm currently maintainig following projects:
 
 * [SocketSaber](https://github.com/EgorBron/SocketSaber) - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
 
-* [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate) - simple page for submiting and hosting translation. Like Crowdin, but open and not Crowdin
+* [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate) - simple page for submiting and hosting translation. Like Crowdin, but not Crowdin and opensourced
 
 * [anekos](https://github.com/EgorBron/anekos) - simple and shitty async Nekos.life API interactor 
 </details>
