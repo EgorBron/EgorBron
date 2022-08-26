@@ -30,7 +30,7 @@ I'm currently maintainig following projects:
 
 * [SocketSaber](https://github.com/EgorBron/SocketSaber) - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
 
-* [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate) - simple page for submiting and hosting translation. Like Crowdin, but not Crowdin and opensourced
+* [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate) - simple web CAT tool and translations hosting
 
 * [anekos](https://github.com/EgorBron/anekos) - simple and shitty async Nekos.life API interactor 
 </details>
@@ -53,10 +53,6 @@ I'm currently maintainig following projects:
 *More links will appear soon...*
 
 <details><summary>cool guys</summary>
-
-[@TheStngularity](https://github.com/TheStngularity) 
-
-[@Jabka-M](https://github.com/Jabka-M)
 
 [@SashaKilin](https://github.com/SashaKilin)
 
