@@ -27,8 +27,8 @@ I'm currently maintainig following projects:
 * 📦 [AutoJacksParty (private)](https://github.com/EgorBron/JacksPartyV2) - Automated YouTube livestream for Jackbox Party Packs
   
 * 📩 [dumpall](https://github.com/EgorBron/dumpall) - Discord group dumper
-  
-* 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - mocap?
+<!--  
+* 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - mocap? -->
   
 * ⚙ [Blusutils Python library](https://github.com/Blusutils/blusutilspy) - library with random functionality
 
@@ -39,7 +39,7 @@ I'm currently maintainig following projects:
 * 😺 [anekos](https://github.com/EgorBron/anekos) - simple and shitty async Nekos.life API interactor 
 
 * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge) - artwork theme prompt generator for "creating whatever you want (if you want too much)".
-* 🕰 [Pre-revolutionary Russian (not on GitHub)](https://translations.telegram.org/prerevolutionaryrussianfun/) - translation to pre-revolutionary Russian for Telegram.
+
 </details>
 <hr>
 
