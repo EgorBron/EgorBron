@@ -16,30 +16,29 @@ I'm from Russia. Know russian language as native, now learning English (I haven'
 Junior in Python and novice in C#, currently learning Java/Kotlin and C/C++ langs. 
 <hr>
 
-## Maintained projects
-I'm currently maintainig following projects:
+## My projects
 <details><summary>click to reveal</summary>
-  
-* 🥫 [DESrv (private, but will open soon)](https://github.com/Blusutils/DESrv) - Dedicated Extendable Server
-  
-* 💧 Niquid (private) - yet another logic game
-  
-* 📦 [AutoJacksParty (private)](https://github.com/EgorBron/JacksPartyV2) - Automated YouTube livestream for Jackbox Party Packs
-  
-* 📩 [dumpall](https://github.com/EgorBron/dumpall) - Discord group dumper
-<!--  
-* 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - mocap? -->
-  
-* ⚙ [Blusutils Python library](https://github.com/Blusutils/blusutilspy) - library with random functionality
 
-* 🔌 [SocketSaber](https://github.com/EgorBron/SocketSaber) - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
+> Here are all the projects that I work on or have worked on recently.
+> If ✔ is near with project emoji - this project is finished.
 
-* 🌐 [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate) - simple web CAT tool and translations hosting
-
-* 😺 [anekos](https://github.com/EgorBron/anekos) - simple and shitty async Nekos.life API interactor 
-
-* 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge) - artwork theme prompt generator for "creating whatever you want (if you want too much)".
-
+* Personal projects
+  * 📦 [AutoJacksParty (private)](https://github.com/EgorBron/JacksPartyV2) - automated YouTube livestream for Jackbox Party Packs
+  * 📩 [dumpall](https://github.com/EgorBron/dumpall) - Discord group dumper
+  * 🔌 [SocketSaber](https://github.com/EgorBron/SocketSaber) - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
+  * ✔😺 [anekos](https://github.com/EgorBron/anekos) - simple and shitty async Nekos.life API interactor 
+  * 🚇 [How Long On Subway](https://github.com/EgorBron/HowLongOnSubway) - subway travel time calculator
+  
+* Blusutils projets
+  * 🥫 [DESrv (private, but will open soon)](https://github.com/Blusutils/DESrv) - Dedicated Extendable Server
+  * ⚙ [Blusutils Python library](https://github.com/Blusutils/blusutilspy) - library with random functionality
+  * 💧 Niquid (private) - yet another logic game
+  * 🌐 [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate) - simple web CAT tool and translations hosting
+  * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge) - artwork theme prompt generator for "creating whatever you want (if you want too much)"
+  
+* Blusutils EEE Projects
+  * ✔⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
+  * 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - mocap?
 </details>
 <hr>
 
@@ -76,6 +75,14 @@ I'm currently maintainig following projects:
 
 ## Statistics (not fully precise)
 #### GitHub
+<!-- TODO:
+https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
+https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
+https://github.com/lowlighter/metrics/blob/master/source/plugins/gists/README.md
+https://github.com/lowlighter/metrics/blob/master/source/plugins/traffic/README.md
+https://github.com/lowlighter/metrics/blob/master/source/plugins/introduction/README.md
+https://github.com/lowlighter/metrics/blob/master/source/plugins/stars/README.md
+-->
 ![Stats](https://github-readme-stats.vercel.app/api?username=EgorBron&show_icons=true&theme=tokyonight&bg_color=50,2813fb,6052ff&title_color=ebebeb&text_color=cbcbcb)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorBron&layout=compact&theme=codeSTACKr)
