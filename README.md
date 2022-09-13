@@ -42,20 +42,24 @@ Junior in Python and novice in C#, currently learning Java/Kotlin and C/C++ lang
 </details>
 <hr>
 
-## Social links (in order of speed of reply)
+## Social networks (in order of speed of reply)
 [Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172)
 
-[Telegram](https://t.me/egorbronn)
+[Telegram (@egorbronn)](https://t.me/egorbronn)
 
 [YouTube](https://www.youtube.com/channel/UCWd7FjRN4EM6D7tiJUv6lWg) 
 
-[DonationAlerts](https://www.donationalerts.com/c/egorbron) 
-
 [Steam](https://steamcommunity.com/id/EgorBronn/)
 
-[VK](https://vk.com/egorbronn) (inactive, may not reply) 
+[DonationAlerts](https://www.donationalerts.com/c/egorbron)
+
+[E-mail (egorbron@inbox.ru)](mailto:egorbron@inbox.ru)
+
+[VK (@egorbronn)](https://vk.com/egorbronn) (inactive, may not reply) 
 
 [osu!profile](https://osu.ppy.sh/users/15136301) (noreply)
+
+[Itch](https://egorbron.itch.io/) (noreply)
 
 *More links will appear soon...*
 <hr>
