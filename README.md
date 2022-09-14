@@ -61,6 +61,8 @@ Junior in Python and novice in C#, currently learning Java/Kotlin and C/C++ lang
 
 [Itch](https://egorbron.itch.io/) (noreply)
 
+[Ko-fi](https://ko-fi.com/egorbron) (noreply)
+
 *More links will appear soon...*
 <hr>
 
