@@ -1,5 +1,9 @@
-# EgorBron // Егор Брон ![Avatar](https://avatars.githubusercontent.com/u/71507444?s=64) 
-> Not that serious a programmer. I am serious only in these sentences. Like the serious table from The Stanley Parable. My code, on the other hand, is nowhere near as serious as he is.
+# EgorBron // Егор Брон
+<img src="https://avatars.githubusercontent.com/u/71507444?s=64" style="border-radius: 4px;" alt="Avatar">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)
+
+> ~Not~ always sleeping and ~not~ serious developer.
 
 Hello and welcome to my Github profile! Here you can find some info about me and social links. 
 <hr>
@@ -13,7 +17,9 @@ Strange and lazy but kind guy.
 
 I'm from Russia. Know russian language as native, now learning English (I haven't tested my level of this language)<!--, want to learn Interslavic and Japanese-->.
 
-Junior in Python and novice in C#, currently learning Java/Kotlin and C/C++ langs. 
+Junior in Python and novice in C#, currently learning Java/Kotlin and C/C++ langs.
+
+Love motion graphics in Cinema 4D and physics simulations in Blender.
 <hr>
 
 ## My projects
