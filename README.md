@@ -3,6 +3,10 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)
 
+## Hey! I recently opened the source code for the DESrv framework server repository that I've been working on for the last 4 months! Check it out [here](https://github.com/Blusutils/DESrv) and help develop the project!
+
+<br><br>
+
 > ~Not~ always sleeping and ~not~ serious developer.
 
 Hello and welcome to my Github profile! Here you can find some info about me and social links. 
@@ -35,14 +39,15 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * ✔😺 [anekos](https://github.com/EgorBron/anekos) - simple and shitty async Nekos.life API interactor 
   * 🚇 [How Long On Subway](https://github.com/EgorBron/HowLongOnSubway) - subway travel time calculator
   
-* Blusutils projets
-  * 🥫 [DESrv (private, but will open soon)](https://github.com/Blusutils/DESrv) - Dedicated Extendable Server
+* [Blusutils](https://github.com/Blusutils/) projets
+  * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server *Now Opensource!*
+  * 🌄 [DESCEndLib](https://github.com/Blusutils/DESCEndLib) - multipurposal .NET library *Now Opensource!*
   * ⚙ [Blusutils Python library](https://github.com/Blusutils/blusutilspy) - library with random functionality
   * 💧 Niquid (private) - yet another logic game
   * 🌐 [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate) - simple web CAT tool and translations hosting
   * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge) - artwork theme prompt generator for "creating whatever you want (if you want too much)"
   
-* Blusutils EEE Projects
+* Blusutils [EEE Projects](https://github.com/Blusutils/projEEECTS)
   * ✔⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
   * 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - mocap?
 </details>
