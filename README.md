@@ -93,17 +93,12 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 
 ## Statistics (not fully precise)
 #### GitHub
-<!-- TODO:
-https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
-https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
-https://github.com/lowlighter/metrics/blob/master/source/plugins/gists/README.md
-https://github.com/lowlighter/metrics/blob/master/source/plugins/traffic/README.md
-https://github.com/lowlighter/metrics/blob/master/source/plugins/introduction/README.md
-https://github.com/lowlighter/metrics/blob/master/source/plugins/stars/README.md
--->
-![Stats](https://github-readme-stats.vercel.app/api?username=EgorBron&show_icons=true&theme=tokyonight&bg_color=50,2813fb,6052ff&title_color=ebebeb&text_color=cbcbcb)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=EgorBron&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ebebeb&text_color=cbcbcb)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorBron&layout=compact&theme=codeSTACKr)
+
+![Metrics](/github-metrics.svg)
 #### Wakatime
 
 <img
