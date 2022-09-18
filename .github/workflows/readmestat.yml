@@ -25,4 +25,4 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 5
           commits_authoring: firstname lastname, username
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.ACC_TOKEN }}
