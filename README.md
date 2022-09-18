@@ -55,6 +55,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 <hr>
 
 ## Social networks (in order of speed of reply)
+<details><summary>click to reveal</summary>
 [Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172)
 
 [Telegram (@egorbronn)](https://t.me/egorbronn)
@@ -76,6 +77,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 [Ko-fi](https://ko-fi.com/egorbron) (noreply)
 
 *More links will appear soon...*
+</details>
 <hr>
 
 <details><summary>cool guys</summary>
@@ -86,12 +88,13 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 </details>
 <hr>
 
+## Statistics (not fully precise)
+
 #### Discord Activity
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/555638466365489172?idleMessage=Doing%20nothing)](https://discord.com/users/555638466365489172)
 <hr>
 
-## Statistics (not fully precise)
 #### GitHub
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=EgorBron&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ebebeb&text_color=cbcbcb)
