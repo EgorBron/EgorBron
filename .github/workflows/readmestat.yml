@@ -1,0 +1,28 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 3,15 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: EgorBron
+          base: header
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_other: true
+          plugin_gists: yes
+          plugin_traffic: yes
+          #plugin_introduction: yes
+          plugin_stars: yes
+          plugin_stars_limit: 5
+          commits_authoring: firstname lastname, username
+          token: ${{ secrets.METRICS_TOKEN }}
