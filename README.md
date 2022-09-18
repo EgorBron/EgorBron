@@ -1,11 +1,11 @@
 # EgorBron // Егор Брон
 <img src="https://avatars.githubusercontent.com/u/71507444?s=64" style="border-radius: 4px;" alt="Avatar">
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)
+<!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)-->
 
 ## Hey! I recently opened the source code for the DESrv framework server repository that I've been working on for the last 4 months! Check it out [here](https://github.com/Blusutils/DESrv) and help develop the project!
 
-<br><br>
+<br>
 
 > ~Not~ always sleeping and ~not~ serious developer.
 
@@ -42,6 +42,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 * [Blusutils](https://github.com/Blusutils/) projets
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server *Now Opensource!*
   * 🌄 [DESCEndLib](https://github.com/Blusutils/DESCEndLib) - multipurposal .NET library *Now Opensource!*
+  * 🔍 [DESrv Plugin Example](https://github.com/Blusutils/desrv-pdk-example) - example plugin for DESrv using PDK
   * ⚙ [Blusutils Python library](https://github.com/Blusutils/blusutilspy) - library with random functionality
   * 💧 Niquid (private) - yet another logic game
   * 🌐 [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate) - simple web CAT tool and translations hosting
