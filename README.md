@@ -57,7 +57,9 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 ## Social networks (in order of speed of reply)
 <details><summary>click to reveal</summary>
 
-[Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172)
+> **Warning**: `FOR DISCORD`: please, don't send me a friend request, just join the server. And if you sended friend request, describe what are you want as completly as you can. **NO QUESTIONS ABOUT DISCORD BOTS**
+
+[Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172) || [Discord Server](https://discord.gg/bJkW8SSEeY)
 
 [Telegram DM (@egorbronn)](https://t.me/egorbronn) or [channel (@egorbron_sleep, RU)](https://t.me/egorbron_sleep) 
 
