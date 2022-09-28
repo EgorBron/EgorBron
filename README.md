@@ -9,11 +9,13 @@
 
 > ~Not~ always sleeping and ~not~ serious developer.
 
+> Senior developer of idleness and sleep.
+
 Hello and welcome to my Github profile! Here you can find some info about me and social links. 
 <hr>
 
 ### About me
-My name is Yegor (Егор), but I prefer to write "Egor".
+My name is Yegor (Егор), but I prefer to write "Egor". He/him.
 
 15 y. o., birthday Oct 20.
 
@@ -33,11 +35,13 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 > If ✔ is near with project emoji - this project is finished.
 
 * Personal projects
+  * 📄 [Some gists](https://gist.github.com/EgorBron)
   * 📦 [AutoJacksParty (private)](https://github.com/EgorBron/JacksPartyV2) - automated YouTube livestream for Jackbox Party Packs
   * 📩 [dumpall](https://github.com/EgorBron/dumpall) - Discord group dumper
   * 🔌 [SocketSaber](https://github.com/EgorBron/SocketSaber) - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
   * ✔😺 [anekos](https://github.com/EgorBron/anekos) - simple and shitty async Nekos.life API interactor 
   * 🚇 [How Long On Subway](https://github.com/EgorBron/HowLongOnSubway) - subway travel time calculator
+  * 🖼 [BSDRP](https://github.com/EgorBron/) - DRP (Discord Rich Presence) implementation for Beat Saber
   
 * [Blusutils](https://github.com/Blusutils/) projets
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server *Now Opensource!*
@@ -57,7 +61,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 ## Social networks (in order of speed of reply)
 <details><summary>click to reveal</summary>
 
-> **Warning**: `FOR DISCORD`: please, don't send me a friend request, just join the server. And if you sended friend request, describe what are you want as completly as you can. **NO QUESTIONS ABOUT DISCORD BOTS**
+> **Warning** `FOR DISCORD`: please, don't send me a friend request, just join the server. And if you sended friend request, describe what are you want as completly as you can. **NO QUESTIONS ABOUT DISCORD BOTS**
 
 [Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172) || [Discord Server](https://discord.gg/bJkW8SSEeY)
 
@@ -84,6 +88,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 <hr>
 
 <details><summary>cool guys</summary>
+<br>
 
 [@SashaKilin](https://github.com/SashaKilin)
 
