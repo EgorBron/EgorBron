@@ -3,10 +3,6 @@
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)-->
 
-## Hey! I recently opened the source code for the DESrv framework server repository that I've been working on for the last 4 months! Check it out [here](https://github.com/Blusutils/DESrv) and help develop the project!
-
-<br>
-
 > ~Not~ always sleeping and ~not~ serious developer.
 
 > Senior developer of idleness and sleep.
@@ -42,6 +38,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * ✔😺 [anekos](https://github.com/EgorBron/anekos) - simple and shitty async Nekos.life API interactor 
   * 🚇 [How Long On Subway](https://github.com/EgorBron/HowLongOnSubway) - subway travel time calculator
   * 🖼 [BSDRP](https://github.com/EgorBron/BSDRP) - DRP (Discord Rich Presence) implementation for Beat Saber
+  * 🏜️ [Africa.py](https://github.com/EgorBron/Africa.py) - rewrition of one game on Pascal to Python
   
 * [Blusutils](https://github.com/Blusutils/) projets
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server *Now Opensource!*
