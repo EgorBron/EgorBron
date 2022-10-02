@@ -39,6 +39,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * 🚇 [How Long On Subway](https://github.com/EgorBron/HowLongOnSubway) - subway travel time calculator
   * 🖼 [BSDRP](https://github.com/EgorBron/BSDRP) - DRP (Discord Rich Presence) implementation for Beat Saber
   * 🏜️ [Africa.py](https://github.com/EgorBron/Africa.py) - rewrition of one game on Pascal to Python
+  * 🙀 [WHAT THE CAT?!](https://github.com/EgorBron/WHAT-THE-CAT) - joke "virus" that spams with cat images (and not only cats) 
   
 * [Blusutils](https://github.com/Blusutils/) projets
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server *Now Opensource!*
@@ -50,7 +51,8 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge) - artwork theme prompt generator for "creating whatever you want (if you want too much)"
   
 * Blusutils [EEE Projects](https://github.com/Blusutils/projEEECTS)
-  * ✔⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
+  * ⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
+  * ✔⏰ [alAAARM-WF](https://github.com/Blusutils/alAAARM-WF) - alarm clock, but on WinForms!
   * 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - mocap?
 </details>
 <hr>
