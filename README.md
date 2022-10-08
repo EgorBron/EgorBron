@@ -41,15 +41,22 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * 🏜️ [Africa.py](https://github.com/EgorBron/Africa.py) - rewrition of one game on Pascal to Python
   * ✔🙀 [WHAT THE CAT?!](https://github.com/EgorBron/WHAT-THE-CAT) - joke "virus" that spams with cat images (and not only cats)
   * 🎣 [Trapp (private, but will open soon)](https://github.com/EgorBron/Trapp) - Android app what can help interact with "APIs that returns random images"
+  * 🏀 [BlenderPresence](https://github.com/EgorBron/BlenderPresence) - DRP (Discord Rich Presence) implementation for Blender
+
+* "Notes"
+  * ♿ [VMESC](https://github.com/EgorBron/VMESC)
+  * 🌎 [Playground](https://github.com/EgorBron/my-github-playground)
+  * 📸 [ae2gd](https://github.com/EgorBron/ae2gd)
   
 * [Blusutils](https://github.com/Blusutils/) projets
-  * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server *Now Opensource!*
-  * 🌄 [DESCEndLib](https://github.com/Blusutils/DESCEndLib) - multipurposal .NET library *Now Opensource!*
+  * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server for usage in different tasks
+  * 🌄 [DESCEndLib](https://github.com/Blusutils/DESCEndLib) - multipurposal .NET library
   * 🔍 [DESrv Plugin Example](https://github.com/Blusutils/desrv-pdk-example) - example plugin for DESrv using PDK
   * ⚙ [Blusutils Python library](https://github.com/Blusutils/blusutilspy) - library with random functionality
   * 💧 Niquid (private) - yet another logic game
   * 🌐 [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate) - simple web CAT tool and translations hosting
   * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge) - artwork theme prompt generator for "creating whatever you want (if you want too much)"
+  * 🔥 Elemheadz (private) - yet another platformer game
   
 * Blusutils [EEE Projects](https://github.com/Blusutils/projEEECTS)
   * ⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
