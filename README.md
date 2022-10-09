@@ -41,7 +41,6 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * 🏜️ [Africa.py](https://github.com/EgorBron/Africa.py) - rewrition of one game on Pascal to Python
   * ✔🙀 [WHAT THE CAT?!](https://github.com/EgorBron/WHAT-THE-CAT) - joke "virus" that spams with cat images (and not only cats)
   * 🎣 [Trapp (private, but will open soon)](https://github.com/EgorBron/Trapp) - Android app what can help interact with "APIs that returns random images"
-  * 🏀 [BlenderPresence](https://github.com/EgorBron/BlenderPresence) - DRP (Discord Rich Presence) implementation for Blender
 
 * "Notes"
   * ♿ [VMESC](https://github.com/EgorBron/VMESC)
@@ -70,7 +69,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 
 > **Warning** `FOR DISCORD`: please, don't send me a friend request, just join the server. And if you sended friend request, describe what are you want as completly as you can. **NO QUESTIONS ABOUT DISCORD BOTS**
 
-[Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172) || [Discord Server](https://discord.gg/bJkW8SSEeY)
+[Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172) or [Discord Server](https://discord.gg/bJkW8SSEeY)
 
 [Telegram DM (@egorbronn)](https://t.me/egorbronn) or [channel (@egorbron_sleep, RU)](https://t.me/egorbron_sleep) 
 
