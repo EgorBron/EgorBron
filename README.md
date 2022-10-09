@@ -56,6 +56,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * 🌐 [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate) - simple web CAT tool and translations hosting
   * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge) - artwork theme prompt generator for "creating whatever you want (if you want too much)"
   * 🔥 Elemheadz (private) - yet another platformer game
+  * 🚪 [OAuth2 for ASP.NET](https://github.com/Blusutils/OAuth2-ASP.NET) - just Test ASP.NET project with OAuth2
   
 * Blusutils [EEE Projects](https://github.com/Blusutils/projEEECTS)
   * ⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
