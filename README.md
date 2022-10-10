@@ -28,19 +28,20 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 <details><summary>click to reveal</summary>
 
 > Here are all the projects that I work on or have worked on recently.
-> If ✔ is near with project emoji - this project is finished.
+> If ✔ is after project name - this project is finished.
 
 * Personal projects
   * 📄 [Some gists](https://gist.github.com/EgorBron)
   * 📦 [AutoJacksParty (private)](https://github.com/EgorBron/JacksPartyV2) - automated YouTube livestream for Jackbox Party Packs
   * 📩 [dumpall](https://github.com/EgorBron/dumpall) - Discord group dumper
   * 🔌 [SocketSaber](https://github.com/EgorBron/SocketSaber) - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
-  * ✔😺 [anekos](https://github.com/EgorBron/anekos) - simple and shitty async Nekos.life API interactor 
+  * 😺 [anekos](https://github.com/EgorBron/anekos)✔ - simple and shitty async Nekos.life API interactor 
   * 🚇 [How Long On Subway](https://github.com/EgorBron/HowLongOnSubway) - subway travel time calculator
   * 🖼 [BSDRP](https://github.com/EgorBron/BSDRP) - DRP (Discord Rich Presence) implementation for Beat Saber
   * 🏜️ [Africa.py](https://github.com/EgorBron/Africa.py) - rewrition of one game on Pascal to Python
-  * ✔🙀 [WHAT THE CAT?!](https://github.com/EgorBron/WHAT-THE-CAT) - joke "virus" that spams with cat images (and not only cats)
-  * 🎣 [Trapp (private, but will open soon)](https://github.com/EgorBron/Trapp) - Android app what can help interact with "APIs that returns random images"
+  * 🙀 [WHAT THE CAT?!](https://github.com/EgorBron/WHAT-THE-CAT)✔ - joke "virus" that spams with cat images (and not only cats)
+  * 🎣 [Trapp](https://github.com/EgorBron/Trapp) - Android app what can help interact with "APIs that returns random images"
+  * 💽 [EasyDriveIcon](https://github.com/EgorBron/EasyDriveIcon)✔ - util for change drive icon in Windows explorer
 
 * "Notes"
   * ♿ [VMESC](https://github.com/EgorBron/VMESC)
@@ -60,7 +61,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   
 * Blusutils [EEE Projects](https://github.com/Blusutils/projEEECTS)
   * ⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
-  * ✔⏰ [alAAARM-WF](https://github.com/Blusutils/alAAARM-WF) - alarm clock, but on WinForms!
+  * ⏰ [alAAARM-WF](https://github.com/Blusutils/alAAARM-WF)✔ - alarm clock, but on WinForms!
   * 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - mocap?
 </details>
 <hr>
