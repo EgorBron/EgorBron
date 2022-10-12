@@ -38,7 +38,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * 😺 [anekos](https://github.com/EgorBron/anekos)✔ - simple and shitty async Nekos.life API interactor 
   * 🚇 [How Long On Subway](https://github.com/EgorBron/HowLongOnSubway) - subway travel time calculator
   * 🖼 [BSDRP](https://github.com/EgorBron/BSDRP) - DRP (Discord Rich Presence) implementation for Beat Saber
-  * 🏜️ [Africa.py](https://github.com/EgorBron/Africa.py) - rewrition of one game on Pascal to Python
+  * 🎋 [GrasscutterCommandGenerator](https://github.com/EgorBron/GrasscutterCommandGenerator) - fork of [GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) with few new features and translations fixes
   * 🙀 [WHAT THE CAT?!](https://github.com/EgorBron/WHAT-THE-CAT)✔ - joke "virus" that spams with cat images (and not only cats)
   * 🎣 [Trapp](https://github.com/EgorBron/Trapp) - Android app what can help interact with "APIs that returns random images"
   * 💽 [EasyDriveIcon](https://github.com/EgorBron/EasyDriveIcon)✔ - util for change drive icon in Windows explorer
