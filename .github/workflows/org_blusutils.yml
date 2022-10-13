@@ -1,7 +1,6 @@
 name: Metrics Blusutils
 on:
-  workflow_run:
-    workflows: readmestat
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
