@@ -183,6 +183,8 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorBron&layout=compact&theme=codeSTACKr)
 
 ![Metrics](/github-metrics.svg)
+
+![Metrics Blusutils](/github-metrics-blusutils.svg)
 #### Wakatime
 
 <img
