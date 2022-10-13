@@ -22,6 +22,71 @@ I'm from Russia. Know russian language as native, now learning English (I haven'
 Junior in Python and novice in C#, currently learning Java/Kotlin and C/C++ langs.
 
 Love motion graphics in Cinema 4D and physics simulations in Blender.
+
+<details><summary>Toolset</summary>
+ 
+ * 2D Design
+   * Adobe Photoshop (CC 2015 and CC 2022)
+   * Figma
+ * 3D design
+   * Cinema 4D r20-r21
+   * Blender (2.8, 3.0)
+   * Blockbench
+ * Video-related
+   * OBS Studio
+   * Adobe Premiere Pro (CC 2022)
+   * Adobe After Effects (CC 2022) (but ofcourse I use it not only for video editing)
+ * Music/audio
+   * Adobe Audition (CC 2014, CC 2022)
+   * Audacity
+   * MuseScore 3
+   * FL Studio
+   * Embers
+ * Networking
+   * PuTTY
+   * Hamachi
+   * BurpSuite Community
+   * Postman
+   * Fiddler Classic
+ * Personalization
+   * Rainmeter
+   * Lively Wallpaper
+   * KeyGo
+   * Notifications Visualizer
+   * PowerToys
+ * Programming
+   * Languages
+     * Python (3.9.6, 2.7)
+     * C# (7-10)
+     * Java (8, 16, 17)
+     * C++ (10, 21)
+     * Lua (5.1)
+     * Node.js
+     * Web-related (HTML, CSS, JS)
+   * Databases
+     * MongoDB
+     * PostgreSQL
+     * SQLite
+   * Editors & IDEs
+     * Visual Studio IDE 2022 (17)
+     * Visual Studio Code
+     * Android Studio
+     * IntelliJ IDEA
+     * Notepad++
+   * Game engines
+     * Godot
+     * Unity
+   * Reverse engineering tools
+     * dnSpyEx
+     * ImHex
+     * Cheat Engine
+     * Resource Hacker
+     * cpp2il
+   * Mods APIs
+     * Fabric (Minecraft)
+     * BSPIA (Beat Saber and other Unity Mono-backend games)
+     * Melon Loader (Unity)
+</details>
 <hr>
 
 ## My projects
