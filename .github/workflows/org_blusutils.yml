@@ -11,9 +11,6 @@ jobs:
         with:
           user: Blusutils
           base: header
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_other: true
           plugin_traffic: yes
           plugin_introduction: yes
           commits_authoring: firstname lastname, username
