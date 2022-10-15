@@ -1,11 +1,9 @@
-# EgorBron // Егор Брон
+# Egor Bron // Егор Брон
 <img src="https://avatars.githubusercontent.com/u/71507444?s=64" style="border-radius: 4px;" alt="Avatar">
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)-->
 
-> ~Not~ always sleeping and ~not~ serious developer.
-
-> Senior developer of idleness and sleep.
+> ~Not~ always sleeping and ~not~ that serious.
 
 Hello and welcome to my Github profile! Here you can find some info about me and social links. 
 <hr>
@@ -160,14 +158,14 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 </details>
 <hr>
 
-<details><summary>cool guys</summary>
+<!--<details><summary>cool guys</summary>
 <br>
 
 [@SashaKilin](https://github.com/SashaKilin)
 
 [@NeverMindDev](https://github.com/NeverMindDev) 
 </details>
-<hr>
+<hr>-->
 
 ## Statistics (not fully precise)
 
