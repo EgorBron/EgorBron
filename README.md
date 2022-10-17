@@ -94,7 +94,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 > If ✔ is after project name - this project is finished.
 
 * Personal projects
-  * 📄 [Some gists](https://gist.github.com/EgorBron)
+  * 📄 [Some GitHub Gists](https://gist.github.com/EgorBron)
   * 📦 [AutoJacksParty (private)](https://github.com/EgorBron/JacksPartyV2) - automated YouTube livestream for Jackbox Party Packs
   * 📩 [dumpall](https://github.com/EgorBron/dumpall) - Discord group dumper
   * 🔌 [SocketSaber](https://github.com/EgorBron/SocketSaber) - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
@@ -105,11 +105,11 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * 🙀 [WHAT THE CAT?!](https://github.com/EgorBron/WHAT-THE-CAT)✔ - joke "virus" that spams with cat images (and not only cats)
   * 🎣 [Trapp](https://github.com/EgorBron/Trapp) - Android app what can help interact with "APIs that returns random images"
   * 💽 [EasyDriveIcon](https://github.com/EgorBron/EasyDriveIcon)✔ - util for change drive icon in Windows explorer
+  * 📸 [ae2gd](https://github.com/EgorBron/ae2gd) - plugin for After Effects that imports composition to Geometry Dash level
 
 * "Notes"
   * ♿ [VMESC](https://github.com/EgorBron/VMESC)
   * 🌎 [Playground](https://github.com/EgorBron/my-github-playground)
-  * 📸 [ae2gd](https://github.com/EgorBron/ae2gd)
   
 * [Blusutils](https://github.com/Blusutils/) projets
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server for usage in different tasks
