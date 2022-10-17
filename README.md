@@ -175,10 +175,10 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 <hr>
 
 #### GitHub
-
+<!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=EgorBron&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ebebeb&text_color=cbcbcb)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorBron&layout=compact&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorBron&layout=compact&theme=codeSTACKr)-->
 
 ![Metrics](/github-metrics.svg)
 
