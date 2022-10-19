@@ -1,4 +1,4 @@
-# Egor Bron // Егор Брон
+# Egor Bron // Егор Брон || Happy Birthday to me! 🥳
 <img src="https://avatars.githubusercontent.com/u/71507444?s=64" style="border-radius: 4px;" alt="Avatar">
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)-->
@@ -11,7 +11,7 @@ Hello and welcome to my Github profile! Here you can find some info about me and
 ### About me
 My name is Yegor (Егор), but I prefer to write "Egor". He/him.
 
-15 y. o., birthday Oct 20.
+16 y. o., birthday Oct 20.
 
 Strange and lazy but kind guy. 
 
