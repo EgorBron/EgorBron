@@ -1,4 +1,4 @@
-# Egor Bron // Егор Брон || Happy Birthday to me! 🥳
+# Egor Bron // Егор Брон
 <img src="https://avatars.githubusercontent.com/u/71507444?s=64" style="border-radius: 4px;" alt="Avatar">
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)-->
