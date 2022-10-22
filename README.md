@@ -28,12 +28,12 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
    * Figma
  * 3D design
    * Cinema 4D r20-r21
-   * Blender (2.8, 3.0)
+   * Blender (2.8, 3.3)
    * Blockbench
  * Video-related
    * OBS Studio
    * Adobe Premiere Pro (CC 2022)
-   * Adobe After Effects (CC 2022) (but ofcourse I use it not only for video editing)
+   * Adobe After Effects (CC 2022)
  * Music/audio
    * Adobe Audition (CC 2014, CC 2022)
    * Audacity
@@ -80,7 +80,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
      * Cheat Engine
      * Resource Hacker
      * cpp2il
-   * Mods APIs
+   * Mod APIs
      * Fabric (Minecraft)
      * BSPIA (Beat Saber and other Unity Mono-backend games)
      * Melon Loader (Unity)
@@ -110,6 +110,8 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 * "Notes"
   * ♿ [VMESC](https://github.com/EgorBron/VMESC)
   * 🌎 [Playground](https://github.com/EgorBron/my-github-playground)
+  * 😼 [miao (private)](https://github.com/EgorBron/miao)
+  * 🎍 [GITS (GCTS) (private)](https://github.com/EgorBron/GITS)
   
 * [Blusutils](https://github.com/Blusutils/) projets
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server for usage in different tasks
@@ -126,6 +128,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * ⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
   * ⏰ [alAAARM-WF](https://github.com/Blusutils/alAAARM-WF)✔ - alarm clock, but on WinForms!
   * 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - mocap?
+  * 🤪 [UGLy (private)](https://github.com/EgorBron/UGLy) - Universal General Launcher (yet) with ugly interface
 </details>
 <hr>
 
