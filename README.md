@@ -123,6 +123,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge) - artwork theme prompt generator for "creating whatever you want (if you want too much)"
   * 🔥 Elemheadz (private) - yet another platformer game
   * 🚪 [OAuth2 for ASP.NET](https://github.com/Blusutils/OAuth2-ASP.NET) - just Test ASP.NET project with OAuth2
+  * 📰 [Blusutils Newscenter (private)](https://github.com/Blusutils/Newscenter) - IfTTT-like news crossposting solution
   
 * Blusutils [EEE Projects](https://github.com/Blusutils/projEEECTS)
   * ⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
@@ -135,7 +136,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 ## Social networks (in order of speed of reply)
 <details><summary>click to reveal</summary>
 
-> **Warning** `FOR DISCORD`: please, don't send me a friend request, just join the server. And if you sended friend request, describe what are you want as completly as you can. **NO QUESTIONS ABOUT DISCORD BOTS**
+> **Warning**: please, don't send me a friend requests, just join the provide community resource (server, channels, etc.. And if you sent friend request, describe what are you want as completly as you can. **NO QUESTIONS ABOUT DISCORD BOTS**
 
 [Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172) or [Discord Server](https://discord.gg/bJkW8SSEeY)
 
