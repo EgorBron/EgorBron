@@ -106,6 +106,8 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * 🎣 [Trapp](https://github.com/EgorBron/Trapp) - Android app what can help interact with "APIs that returns random images"
   * 💽 [EasyDriveIcon](https://github.com/EgorBron/EasyDriveIcon)✔ - util for change drive icon in Windows explorer
   * 📸 [ae2gd](https://github.com/EgorBron/ae2gd) - plugin for After Effects that imports composition to Geometry Dash level
+  * 〽 [BlenderMoGraph](https://github.com/EgorBron/BlenderMoGraph) - addon for Blender that provides tools related to easy work with motion grpahics
+  * 🦠 [PIMS](https://github.com/EgorBron/PIMS) - custom server for Plague Inc. (DESrv plugin)
 
 * "Notes"
   * ♿ [VMESC](https://github.com/EgorBron/VMESC)
@@ -128,7 +130,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 * Blusutils [EEE Projects](https://github.com/Blusutils/projEEECTS)
   * ⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
   * ⏰ [alAAARM-WF](https://github.com/Blusutils/alAAARM-WF)✔ - alarm clock, but on WinForms!
-  * 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - mocap?
+  * 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - shitty motion capture implementation for VR and exportion to some 3D software
   * 🤪 [UGLy (private)](https://github.com/EgorBron/UGLy) - Universal General Launcher (yet) with ugly interface
 </details>
 <hr>
