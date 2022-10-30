@@ -108,6 +108,8 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * 📸 [ae2gd](https://github.com/EgorBron/ae2gd) - plugin for After Effects that imports composition to Geometry Dash level
   * 〽 [BlenderMoGraph](https://github.com/EgorBron/BlenderMoGraph) - addon for Blender that provides tools related to easy work with motion grpahics
   * 🦠 [PIMS](https://github.com/EgorBron/PIMS) - custom server for Plague Inc. (DESrv plugin)
+  * 🧵 [fastpath](https://github.com/EgorBron/fastpath) - easy way to add something to PATH env. variable using CLI
+  * 🗡 [SKMS](https://github.com/EgorBron/SKMS) - custom server for Soul Knight (DESrv plugin)
 
 * "Notes"
   * ♿ [VMESC](https://github.com/EgorBron/VMESC)
@@ -124,7 +126,6 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * 🌐 [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate) - simple web CAT tool and translations hosting
   * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge) - artwork theme prompt generator for "creating whatever you want (if you want too much)"
   * 🔥 Elemheadz (private) - yet another platformer game
-  * 🚪 [OAuth2 for ASP.NET](https://github.com/Blusutils/OAuth2-ASP.NET) - just Test ASP.NET project with OAuth2
   * 📰 [Blusutils Newscenter (private)](https://github.com/Blusutils/Newscenter) - IfTTT-like news crossposting solution
   
 * Blusutils [EEE Projects](https://github.com/Blusutils/projEEECTS)
