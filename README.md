@@ -139,7 +139,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 ## Social networks (in order of speed of reply)
 <details><summary>click to reveal</summary>
 
-> **Warning**: please, don't send me a friend requests, just join the provide community resource (server, channels, etc.. And if you sent friend request, describe what are you want as completly as you can. **NO QUESTIONS ABOUT DISCORD BOTS**
+> **Warning**: please, don't send me a friend requests, just join the related community (server, channels, etc.) if it exists. And if you sent friend request, describe what are you want as completly as you can. **NO QUESTIONS ABOUT DISCORD BOTS**
 
 [Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172) or [Discord Server](https://discord.gg/bJkW8SSEeY)
 
