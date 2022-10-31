@@ -111,12 +111,6 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * 🧵 [fastpath](https://github.com/EgorBron/fastpath) - easy way to add something to PATH env. variable using CLI
   * 🗡 [SKMS](https://github.com/EgorBron/SKMS) - custom server for Soul Knight (DESrv plugin)
 
-* "Notes"
-  * ♿ [VMESC](https://github.com/EgorBron/VMESC)
-  * 🌎 [Playground](https://github.com/EgorBron/my-github-playground)
-  * 😼 [miao (private)](https://github.com/EgorBron/miao)
-  * 🎍 [GITS (GCTS) (private)](https://github.com/EgorBron/GITS)
-  
 * [Blusutils](https://github.com/Blusutils/) projets
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server for usage in different tasks
   * 🌄 [DESCEndLib](https://github.com/Blusutils/DESCEndLib) - multipurposal .NET library
@@ -127,12 +121,11 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
   * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge) - artwork theme prompt generator for "creating whatever you want (if you want too much)"
   * 🔥 Elemheadz (private) - yet another platformer game
   * 📰 [Blusutils Newscenter (private)](https://github.com/Blusutils/Newscenter) - IfTTT-like news crossposting solution
-  
-* Blusutils [EEE Projects](https://github.com/Blusutils/projEEECTS)
-  * ⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
-  * ⏰ [alAAARM-WF](https://github.com/Blusutils/alAAARM-WF)✔ - alarm clock, but on WinForms!
-  * 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - shitty motion capture implementation for VR and exportion to some 3D software
-  * 🤪 [UGLy (private)](https://github.com/EgorBron/UGLy) - Universal General Launcher (yet) with ugly interface
+  * 👤 Blusutils [EEE](https://github.com/Blusutils/projEEECTS)
+    * ⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
+    * ⏰ [alAAARM-WF](https://github.com/Blusutils/alAAARM-WF)✔ - alarm clock, but on WinForms!
+    * 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - shitty motion capture implementation for VR and exportion to some 3D software
+    * 🤪 [UGLy (private)](https://github.com/EgorBron/UGLy) - Universal General Launcher (yet) with ugly interface
 </details>
 <hr>
 
