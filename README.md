@@ -15,11 +15,11 @@ My name is Yegor (Егор), but I prefer to write "Egor". He/him.
 
 Strange and lazy but kind guy. 
 
-I'm from Russia. Know russian language as native, now learning English (I haven't tested my level of this language)<!--, want to learn Interslavic and Japanese-->.
+I'm from Russia. Know russian language as native, now learning English (I haven't tested my level of this language)<!--, want to learn Interslavic, Chinese and Japanese-->.
 
 Junior in Python and novice in C#, currently learning Java/Kotlin and C/C++ langs.
 
-Love motion graphics in Cinema 4D and physics simulations in Blender.
+Like motion graphics in Cinema 4D and physics simulations in Blender.
 
 <details><summary>Toolset</summary>
  
@@ -96,7 +96,6 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 * Personal projects
   * 📄 [Some GitHub Gists](https://gist.github.com/EgorBron)
   * 📦 [AutoJacksParty (private)](https://github.com/EgorBron/JacksPartyV2) - automated YouTube livestream for Jackbox Party Packs
-  * 📩 [dumpall](https://github.com/EgorBron/dumpall) - Discord group dumper
   * 🔌 [SocketSaber](https://github.com/EgorBron/SocketSaber) - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
   * 😺 [anekos](https://github.com/EgorBron/anekos)✔ - simple and shitty async Nekos.life API interactor 
   * 🚇 [How Long On Subway](https://github.com/EgorBron/HowLongOnSubway) - subway travel time calculator
@@ -184,6 +183,8 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 
 ![Metrics Blusutils](/github-metrics-blusutils.svg)
 #### Wakatime
+
+[![Wakatime profile](https://wakatime.com/badge/user/0d335b7c-5fc4-4716-9e58-4e0d11be214d.svg?style=flat-square)](https://wakatime.com/@EgorBron)
 
 <img
   src="https://wakatime.com/share/@0d335b7c-5fc4-4716-9e58-4e0d11be214d/6a92ff98-cedd-43d0-a2d5-6f09fc76eaec.svg"
