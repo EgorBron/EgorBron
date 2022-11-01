@@ -138,7 +138,7 @@ Love motion graphics in Cinema 4D and physics simulations in Blender.
 
 [Telegram DM (@egorbronn)](https://t.me/egorbronn) or [channel (@egorbron_sleep, RU)](https://t.me/egorbron_sleep) 
 
-[YouTube](https://www.youtube.com/channel/UCWd7FjRN4EM6D7tiJUv6lWg) 
+[YouTube (@EgorBron)](https://youtube.com/@EgorBron)
 
 [Steam](https://steamcommunity.com/id/EgorBronn/)
 
