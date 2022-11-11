@@ -2692,7 +2692,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheStngularity/BDSF</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BDSF (Binary data storage format) is a binary data storage format that occupies a minimum amount of disk space.</div>
@@ -2739,7 +2739,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheStngularity/SyrDB</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A DB using BDSF (or BSON) as data storage and written on C++</div>
@@ -3259,7 +3259,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.16803559206025 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.38021902806298 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4022,7 +4022,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Nov 2022, 09:35:21 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 11 Nov 2022, 15:54:07 (timezone Europe/Moscow) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
