@@ -2667,7 +2667,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cygwin/cygwin</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mirror of  Cygwin repository at https://cygwin.com/.  DO NOT SUBMIT PULL REQUESTS.  Read https://cygwin.com/contrib.html and submit patches via the mailing list cygwin-patches AT cygwin DOT com.</div>
@@ -2720,7 +2720,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gui-cs/Terminal.Gui</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross Platform Terminal UI toolkit for .NET</div>
@@ -2773,7 +2773,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>markjamesm/MusicSharp</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MusicSharp is a lightweight, cross-platform TUI music player written in C#.</div>
@@ -2826,7 +2826,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Blusutils/migratail</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Migrate from old mails, browsers and systems to new withount pain and ugly GUIs</div>
@@ -3972,7 +3972,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2022, 04:38:44 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 3 Dec 2022, 09:24:35 (timezone Europe/Moscow) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
