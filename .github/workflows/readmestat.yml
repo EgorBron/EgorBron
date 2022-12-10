@@ -39,7 +39,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 5
+          plugin_activity_limit: 10
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_gists: yes
@@ -49,8 +49,8 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 10
-          plugin_languages_other: yes
+          plugin_languages_limit: 50
+          plugin_languages_other: no
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
