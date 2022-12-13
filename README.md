@@ -17,7 +17,7 @@ Strange and lazy but kind guy.
 
 I'm from Russia. Know russian language as native, now learning English (I haven't tested my level of this language)<!--, want to learn Interslavic, Chinese and Japanese-->.
 
-Junior in Python and novice in C#, currently learning Java/Kotlin and C/C++ langs.
+Junior in Python and novice in C#, currently learning Java/Kotlin, Dart, JS/TS and C/C++ langs.
 
 Like motion graphics in Cinema 4D and physics simulations in Blender.
 
@@ -29,61 +29,58 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
  * 3D design
    * Cinema 4D r20-r21
    * Blender (2.8, 3.3)
-   * Blockbench
  * Video-related
-   * OBS Studio
+   * OBS Studio (28+)
    * Adobe Premiere Pro (CC 2022)
    * Adobe After Effects (CC 2022)
  * Music/audio
    * Adobe Audition (CC 2014, CC 2022)
-   * Audacity
    * MuseScore 3
-   * FL Studio
-   * Embers
+   * Embers (latest)
  * Networking
-   * PuTTY
-   * Hamachi
-   * BurpSuite Community
-   * Postman
-   * Fiddler Classic
+   * PuTTY (latest)
+   * Hamachi (2.2)
+   * BurpSuite Community (2022.8.5)
+   * Postman (10.0.31)
+   * Fiddler Classic (5.0)
  * Personalization
-   * Rainmeter
-   * Lively Wallpaper
-   * KeyGo
-   * Notifications Visualizer
-   * PowerToys
+   * Rainmeter (latest)
+<!--    * Lively Wallpaper -->
+   * KeyGo (latest)
+   * Notifications Visualizer (latest)
+   * PowerToys (latest)
  * Programming
    * Languages
-     * Python (3.9.6, 2.7)
-     * C# (7-10)
-     * Java (8, 16, 17)
-     * C++ (10, 21)
+     * Python (3.9.6, 2.7, mainly 3.9.6)
+     * C# (7-11, mainly 7 and 10-11)
+     * Java (8, 16, 17, mainly 8)
+     * Kotlin (1.7)
+     * C++ (10, 21, mainly 21)
      * Lua (5.1)
-     * Node.js
      * Web-related (HTML, CSS, JS)
    * Databases
-     * MongoDB
-     * PostgreSQL
+     * MongoDB (5.0 Enteripse)
+<!--      * PostgreSQL -->
      * SQLite
    * Editors & IDEs
      * Visual Studio IDE 2022 (17)
-     * Visual Studio Code
-     * Android Studio
-     * IntelliJ IDEA
-     * Notepad++
+     * Visual Studio Code (latest)
+     * Android Studio (2021.3)
+     * IntelliJ IDEA (2022.2)
+     * Notepad++  (latest)
    * Game engines
-     * Godot
-     * Unity
+     * Godot (4.0)
+     * Unity (2017, 2021, mostly 2017)
    * Reverse engineering tools
-     * dnSpyEx
-     * ImHex
-     * Cheat Engine
-     * Resource Hacker
+     * dnSpyEx (latest)
+     * ImHex (latest)
+     * Cheat Engine (latest)
+     * Resource Hacker (latest)
      * cpp2il
    * Mod APIs
-     * Fabric (Minecraft)
-     * BSPIA (Beat Saber and other Unity Mono-backend games)
-     * Melon Loader (Unity)
+     * Fabric (Minecraft) (latest)
+     * BSPIA (Beat Saber and other Unity Mono-backend games) (latest)
+     * Melon Loader (Unity) (latest)
 </details>
 <hr>
 
