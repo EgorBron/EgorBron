@@ -17,7 +17,7 @@ Strange and lazy but kind guy.
 
 I'm from Russia. Know russian language as native, now learning English (I haven't tested my level of this language)<!--, want to learn Interslavic, Chinese and Japanese-->.
 
-Junior in Python and novice in C#, currently learning Java/Kotlin, Dart, JS/TS and C/C++ langs.
+Junior in Python and novice in C#, currently learning Java/Kotlin/Scala, Dart, JS/TS, Assembly and C/C++ langs.
 
 Like motion graphics in Cinema 4D and physics simulations in Blender.
 
@@ -52,9 +52,12 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
  * Programming
    * Languages
      * Python (3.9.6, 2.7, mainly 3.9.6)
-     * C# (7-11, mainly 7 and 10-11)
-     * Java (8, 16, 17, mainly 8)
-     * Kotlin (1.7)
+     * .NET (4.8 Framework, 5.0-7.0 Core, mainly 7.0)
+      * C# (7-11, mainly 7 and 10-11)
+     * JVM
+      * Java (8, 16, 17, mainly 8)
+      * Kotlin (1.7)
+      * Scala (3.1)
      * C++ (10, 21, mainly 21)
      * Lua (5.1)
      * Web-related (HTML, CSS, JS)
@@ -63,7 +66,7 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
 <!--      * PostgreSQL -->
      * SQLite
    * Editors & IDEs
-     * Visual Studio IDE 2022 (17)
+     * Visual Studio 2022 (17)
      * Visual Studio Code (latest)
      * Android Studio (2021.3)
      * IntelliJ IDEA (2022.2)
@@ -121,7 +124,6 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
     * ⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
     * ⏰ [alAAARM-WF](https://github.com/Blusutils/alAAARM-WF)✔ - alarm clock, but on WinForms!
     * 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - shitty motion capture implementation for VR and exportion to some 3D software
-    * 🤪 [UGLy (private)](https://github.com/EgorBron/UGLy) - Universal General Launcher (yet) with ugly interface
 </details>
 <hr>
 
@@ -153,15 +155,6 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
 *More links will appear soon...*
 </details>
 <hr>
-
-<!--<details><summary>cool guys</summary>
-<br>
-
-[@SashaKilin](https://github.com/SashaKilin)
-
-[@NeverMindDev](https://github.com/NeverMindDev) 
-</details>
-<hr>-->
 
 ## Statistics (not fully precise)
 
