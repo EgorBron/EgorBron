@@ -5,7 +5,11 @@
 
 > ~Not~ always sleeping and ~not~ that serious.
 
-Hello and welcome to my Github profile! Here you can find some info about me and social links. 
+Hello and welcome to my Github profile! Here you can find some info about me and social links.
+
+**Happy New Year to everyone! 🎄**
+
+I made 1k commits in 2022... didn't expect it from me...
 <hr>
 
 ### About me
