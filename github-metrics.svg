@@ -2700,7 +2700,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tyrrrz/DiscordChatExporter</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Exports Discord chat logs to a file</div>
@@ -2859,7 +2859,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cheat-engine/cheat-engine</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cheat Engine. A development environment focused on modding</div>
@@ -4086,7 +4086,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Dec 2022, 18:24:16 (timezone Europe/Moscow) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 31 Dec 2022, 21:23:06 (timezone Europe/Moscow) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
