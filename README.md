@@ -7,9 +7,6 @@
 
 Hello and welcome to my Github profile! Here you can find some info about me and social links.
 
-**Happy New Year to everyone! 🎄**
-
-I made 1k commits in 2022... didn't expect it from me...
 <hr>
 
 ### About me
@@ -24,7 +21,7 @@ I'm from Russia. Know russian language as native, now learning English (I haven'
 Junior in Python and novice in C#, currently learning Java/Kotlin/Scala, Dart, JS/TS, Assembly and C/C++ langs.
 
 Like motion graphics in Cinema 4D and physics simulations in Blender.
-
+<!--
 <details><summary>Toolset</summary>
  
  * 2D Design
@@ -49,7 +46,6 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
    * Fiddler Classic (5.0)
  * Personalization
    * Rainmeter (latest)
-<!--    * Lively Wallpaper -->
    * KeyGo (latest)
    * Notifications Visualizer (latest)
    * PowerToys (latest)
@@ -67,7 +63,6 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
      * Web-related (HTML, CSS, JS)
    * Databases
      * MongoDB (5.0 Enteripse)
-<!--      * PostgreSQL -->
      * SQLite
    * Editors & IDEs
      * Visual Studio 2022 (17)
@@ -90,6 +85,7 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
      * Melon Loader (Unity) (latest)
 </details>
 <hr>
+-->
 
 ## My projects
 <details><summary>click to reveal</summary>
@@ -129,7 +125,6 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
     * ⏰ [alAAARM-WF](https://github.com/Blusutils/alAAARM-WF)✔ - alarm clock, but on WinForms!
     * 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - shitty motion capture implementation for VR and exportion to some 3D software
 </details>
-<hr>
 
 ## Social networks (in order of speed of reply)
 <details><summary>click to reveal</summary>
@@ -158,16 +153,16 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
 
 *More links will appear soon...*
 </details>
-<hr>
 
 ## Statistics (not fully precise)
 
 #### Discord Activity
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/555638466365489172?idleMessage=Doing%20nothing)](https://discord.com/users/555638466365489172)
-<hr>
 
 #### GitHub
+<details><summary>click to reveal</summary>
+ 
 <!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=EgorBron&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ebebeb&text_color=cbcbcb)
 
@@ -176,6 +171,9 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
 ![Metrics](/github-metrics.svg)
 
 ![Metrics Blusutils](/github-metrics-blusutils.svg)
+ 
+</details>
+
 #### Wakatime
 
 [![Wakatime profile](https://wakatime.com/badge/user/0d335b7c-5fc4-4716-9e58-4e0d11be214d.svg?style=flat-square)](https://wakatime.com/@EgorBron)
