@@ -18,7 +18,7 @@ Strange and lazy but kind guy.
 
 I'm from Russia. Know russian language as native, now learning English (I haven't tested my level of this language)<!--, want to learn Interslavic, Chinese and Japanese-->.
 
-Junior in Python and novice in C#, currently learning Java/Kotlin/Scala, Dart, JS/TS, Assembly and C/C++ langs.
+Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C++ langs.
 
 Like motion graphics in Cinema 4D and physics simulations in Blender.
 <!--
