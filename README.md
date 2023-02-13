@@ -1,9 +1,11 @@
 # Egor Bron // Егор Брон
-<img src="https://avatars.githubusercontent.com/u/71507444?s=64" style="border-radius: 4px;" alt="Avatar">
+<!--<img src="https://avatars.githubusercontent.com/u/71507444?s=64" style="border-radius: 4px;" alt="Avatar">-->
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)-->
 
 > ~Not~ always sleeping and ~not~ that serious.
+> 
+> #localhostisthebesthost
 
 Hello and welcome to my Github profile! Here you can find some info about me and social links.
 
