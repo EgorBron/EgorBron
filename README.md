@@ -2,7 +2,7 @@
 <!--<img src="https://avatars.githubusercontent.com/u/71507444?s=64" style="border-radius: 4px;" alt="Avatar">-->
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)-->
-
+![Profile views](https://komarev.com/ghpvc/?username=EgorBron&color=4c10cc&style=flat-square)
 > ~Not~ always sleeping and ~not~ that serious.
 > 
 > #localhostisthebesthost
