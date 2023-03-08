@@ -93,39 +93,46 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
 <details><summary>click to reveal</summary>
 
 > Here are all the projects that I work on or have worked on recently.
-> If ✔ is after project name - this project is finished.
+>
+> If ✔ is after project name - this project is finished, 🥶 - project is temporarily unmaintained.
 
 * Personal projects
   * 📄 [Some GitHub Gists](https://gist.github.com/EgorBron)
-  * 📦 [AutoJacksParty (private)](https://github.com/EgorBron/JacksPartyV2) - automated YouTube livestream for Jackbox Party Packs
+  * 📦 [AutoJPPRooms (private)](https://github.com/EgorBron/AutoJPPRooms) - automated livestream for Jackbox Party Packs (DESrv plugin)
   * 🔌 [SocketSaber](https://github.com/EgorBron/SocketSaber) - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
   * 😺 [anekos](https://github.com/EgorBron/anekos)✔ - simple and shitty async Nekos.life API interactor 
-  * 🚇 [How Long On Subway](https://github.com/EgorBron/HowLongOnSubway) - subway travel time calculator
+  * 🚇 [How Long On Subway](https://github.com/EgorBron/HowLongOnSubway)🥶 - subway travel time calculator
   * 🖼 [BSDRP](https://github.com/EgorBron/BSDRP) - DRP (Discord Rich Presence) implementation for Beat Saber
-  * 🎋 [GrasscutterCommandGenerator](https://github.com/EgorBron/GrasscutterCommandGenerator) - fork of [GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) with few new features and translations fixes
+  * 🎋 [GrasscutterCommandGenerator](https://github.com/EgorBron/GrasscutterCommandGenerator)🥶 - fork of [GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) with few new features and translations fixes
   * 🙀 [WHAT THE CAT?!](https://github.com/EgorBron/WHAT-THE-CAT)✔ - joke "virus" that spams with cat images (and not only cats)
-  * 🎣 [Trapp](https://github.com/EgorBron/Trapp) - Android app what can help interact with "APIs that returns random images"
+  * 🎣 [Trapp](https://github.com/EgorBron/Trapp)🥶 - Android app what can help interact with "APIs that returns random images"
   * 💽 [EasyDriveIcon](https://github.com/EgorBron/EasyDriveIcon)✔ - util for change drive icon in Windows explorer
-  * 📸 [ae2gd](https://github.com/EgorBron/ae2gd) - plugin for After Effects that imports composition to Geometry Dash level
-  * 〽 [BlenderMoGraph](https://github.com/EgorBron/BlenderMoGraph) - addon for Blender that provides tools related to easy work with motion grpahics
-  * 🦠 [PIMS](https://github.com/EgorBron/PIMS) - custom server for Plague Inc. (DESrv plugin)
-  * 🧵 [fastpath](https://github.com/EgorBron/fastpath) - easy way to add something to PATH env. variable using CLI
-  * 🗡 [SKMS](https://github.com/EgorBron/SKMS) - custom server for Soul Knight (DESrv plugin)
+  * 📸 [ae2gd](https://github.com/EgorBron/ae2gd)🥶 - plugin for After Effects that imports composition to Geometry Dash level
+  * 🌋 [XGauntlet](https://github.com/EgorBron/XGauntlet) - Geode mod for Geometry Dash that helps to add more "gauntlets"
+  * 〽 [BlenderMoGraph](https://github.com/EgorBron/BlenderMoGraph)🥶 - addon for Blender that provides tools related to easy work with motion grpahics
+  * 🦠 [PIMS](https://github.com/EgorBron/PIMS)🥶 - custom server for Plague Inc. (DESrv plugin)
+  * 🧵 [fastpath](https://github.com/EgorBron/fastpath)🥶 - easy way to add something to PATH env. variable using CLI
+  * 🗡 [SKMS](https://github.com/EgorBron/SKMS)🥶 - custom server for Soul Knight (DESrv plugin)
 
 * [Blusutils](https://github.com/Blusutils/) projets
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server for usage in different tasks
-  * 🌄 [DESCEndLib](https://github.com/Blusutils/DESCEndLib) - multipurposal .NET library
+  * 🌄 [DESCEndLib](https://github.com/Blusutils/DESCEndLib)✔ - multipurposal .NET library
   * 🔍 [DESrv Plugin Example](https://github.com/Blusutils/desrv-pdk-example) - example plugin for DESrv using PDK
-  * ⚙ [Blusutils Python library](https://github.com/Blusutils/blusutilspy) - library with random functionality
-  * 💧 Niquid (private) - yet another logic game
-  * 🌐 [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate) - simple web CAT tool and translations hosting
-  * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge) - artwork theme prompt generator for "creating whatever you want (if you want too much)"
-  * 🔥 Elemheadz (private) - yet another platformer game
-  * 📰 [Blusutils Newscenter (private)](https://github.com/Blusutils/Newscenter) - IfTTT-like news crossposting solution
-  * 👤 Blusutils [EEE](https://github.com/Blusutils/projEEECTS)
-    * ⏰ [alAAARM](https://github.com/Blusutils/alAAARM) - alarm clock!
-    * ⏰ [alAAARM-WF](https://github.com/Blusutils/alAAARM-WF)✔ - alarm clock, but on WinForms!
-    * 📹 [captuREEE (private)](https://github.com/Blusutils/captuREEE) - shitty motion capture implementation for VR and exportion to some 3D software
+  * ⚙ [Blusutils Python library](https://github.com/Blusutils/blusutilspy)✔ - library with random functionality
+  * 💧 Niquid (private)🥶 - yet another logic game
+  * 🌐 [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate)🥶 - simple web CAT tool and translations hosting
+  * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge)🥶 - artwork theme prompt generator for "creating whatever you want (if you want too much)"
+  * 🔥 Elemheadz (private)🥶 - yet another platformer game
+  * 📰 [Blusutils Newscenter (private)](https://github.com/Blusutils/Newscenter)🥶 - IfTTT-like news crossposting solution
+  * 📹 [captuREEE or CaptureExp (private)](https://github.com/Blusutils/captuREEE)🥶 - shitty motion capture implementation for VR and exportion to some 3D software
+  * 🎆 [firogram (private)](https://github.com/Blusutils/firogram) - cross-platform Telegram client implementation on Flutter for developers and enthusiasts
+  * 👷‍♀️ [AniTycoon (private)](https://github.com/Blusutils/AniTycoon) - yet another Discord bot
+
+* Blusutils x [SyrDB](https://github.com/syrdb)
+  * 🗄 [BDSF.NET](https://github.com/Blusutils/BDSF.NET)🥶 - *Binary Data Store Format* implementation for .NET
+  * 🍕 [SyrD.NET](https://github.com/syrdb/SyrD.NET)🥶 - [SyrDB](https://github.com/syrdb/SyrDB) driver for .NET
+  * 🧀 [SyrBot](https://github.com/Blusutils/Syr) - Discord bot with great functionality
+  * 🔁 [RouC](https://github.com/Blusutils/RouC)🥶 - the web anonymous **Rou**lette **C**hat
 </details>
 
 ## Social networks (in order of speed of reply)
