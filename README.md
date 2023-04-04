@@ -124,10 +124,15 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
   * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge)🥶 - artwork theme prompt generator for "creating whatever you want (if you want too much)"
   * 🔥 Elemheadz (private)🥶 - yet another platformer game
   * 📰 [Blusutils Newscenter (private)](https://github.com/Blusutils/Newscenter)🥶 - IfTTT-like news crossposting solution
-  * 📹 [captuREEE or CaptureExp (private)](https://github.com/Blusutils/captuREEE)🥶 - shitty motion capture implementation for VR and exportion to some 3D software
-  * 🎆 [firogram (private)](https://github.com/Blusutils/firogram) - cross-platform Telegram client implementation on Flutter for developers and enthusiasts
+
+
   * 👷‍♀️ [AniTycoon (private)](https://github.com/Blusutils/AniTycoon) - yet another Discord bot
 
+ * Blusutils [Firoapps](https://github.com/Firoapps)
+   * 📹 [CaptureExp (private)](https://github.com/Firoapps/CaptureExp)🥶 - shitty motion capture implementation for VR and exportion to some 3D software
+   * 🎆 [Firogram (private)](https://github.com/Firoapps/Firogram) - cross-platform Telegram client implementation on Flutter for developers and enthusiasts
+   * 📨 [Migratail (private)](https://github.com/Firoapps/Migratail) - helps to migrate from old mail services, browsers or systems
+ 
 * Blusutils x [SyrDB](https://github.com/syrdb)
   * 🗄 [BDSF.NET](https://github.com/Blusutils/BDSF.NET)🥶 - *Binary Data Store Format* implementation for .NET
   * 🍕 [SyrD.NET](https://github.com/syrdb/SyrD.NET)🥶 - [SyrDB](https://github.com/syrdb/SyrDB) driver for .NET
