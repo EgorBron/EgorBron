@@ -16,19 +16,16 @@ My name is Yegor (Егор), but I prefer to write "Egor". He/him.
 
 16 y. o., birthday Oct 20.
 
-Strange and lazy but kind guy. 
-
-I'm from Russia. Know russian language as native, now learning English (I haven't tested my level of this language)<!--, want to learn Interslavic, Chinese and Japanese-->.
+Strange and lazy but kind guy from Russia. Know Russian language as native, now learning English<!--, want to learn Interslavic and Chinese-->.
 
 Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C++ langs.
 
-Like motion graphics in Cinema 4D and physics simulations in Blender.
 <!--
 <details><summary>Toolset</summary>
  
  * 2D Design
    * Adobe Photoshop (CC 2015 and CC 2022)
-   * Figma
+   * Figma (latest)
  * 3D design
    * Cinema 4D r20-r21
    * Blender (2.8, 3.3)
@@ -43,8 +40,8 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
  * Networking
    * PuTTY (latest)
    * Hamachi (2.2)
-   * BurpSuite Community (2022.8.5)
-   * Postman (10.0.31)
+   * BurpSuite Community (2022+)
+   * Postman (10+)
    * Fiddler Classic (5.0)
  * Personalization
    * Rainmeter (latest)
@@ -53,15 +50,16 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
    * PowerToys (latest)
  * Programming
    * Languages
-     * Python (3.9.6, 2.7, mainly 3.9.6)
+     * Python (3.11.3, 3.9.6, 2.7, mainly 3.11.3)
      * .NET (4.8 Framework, 5.0-7.0 Core, mainly 7.0)
-      * C# (7-11, mainly 7 and 10-11)
+      * C# (7-11, mainly 10-11)
      * JVM
-      * Java (8, 16, 17, mainly 8)
+      * Java (8, 16, 17, mainly 17)
       * Kotlin (1.7)
       * Scala (3.1)
      * C++ (10, 21, mainly 21)
-     * Lua (5.1)
+     * Lua (5.4)
+     * Dart (2.18)
      * Web-related (HTML, CSS, JS)
    * Databases
      * MongoDB (5.0 Enteripse)
@@ -71,7 +69,7 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
      * Visual Studio Code (latest)
      * Android Studio (2021.3)
      * IntelliJ IDEA (2022.2)
-     * Notepad++  (latest)
+     * Notepad++ (latest)
    * Game engines
      * Godot (4.0)
      * Unity (2017, 2021, mostly 2017)
@@ -96,7 +94,7 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
 >
 > If ✔ is after project name - this project is finished, 🥶 - project is temporarily unmaintained.
 
-* Personal projects
+###### Personal projects
   * 📄 [Some GitHub Gists](https://gist.github.com/EgorBron)
   * 📦 [AutoJPPRooms (private)](https://github.com/EgorBron/AutoJPPRooms) - automated livestream for Jackbox Party Packs (DESrv plugin)
   * 🔌 [SocketSaber](https://github.com/EgorBron/SocketSaber) - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
@@ -114,7 +112,7 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
   * 🧵 [fastpath](https://github.com/EgorBron/fastpath)🥶 - easy way to add something to PATH env. variable using CLI
   * 🗡 [SKMS](https://github.com/EgorBron/SKMS)🥶 - custom server for Soul Knight (DESrv plugin)
 
-* [Blusutils](https://github.com/Blusutils/) projets
+###### [Blusutils](https://github.com/Blusutils/) projets
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server for usage in different tasks
   * 🌄 [DESCEndLib](https://github.com/Blusutils/DESCEndLib)✔ - multipurposal .NET library
   * 🔍 [DESrv Plugin Example](https://github.com/Blusutils/desrv-pdk-example) - example plugin for DESrv using PDK
@@ -124,16 +122,14 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
   * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge)🥶 - artwork theme prompt generator for "creating whatever you want (if you want too much)"
   * 🔥 Elemheadz (private)🥶 - yet another platformer game
   * 📰 [Blusutils Newscenter (private)](https://github.com/Blusutils/Newscenter)🥶 - IfTTT-like news crossposting solution
-
-
   * 👷‍♀️ [AniTycoon (private)](https://github.com/Blusutils/AniTycoon) - yet another Discord bot
 
- * Blusutils [Firoapps](https://github.com/Firoapps)
+ ###### Blusutils [Firoapps](https://github.com/Firoapps)
    * 📹 [CaptureExp (private)](https://github.com/Firoapps/CaptureExp)🥶 - shitty motion capture implementation for VR and exportion to some 3D software
    * 🎆 [Firogram (private)](https://github.com/Firoapps/Firogram) - cross-platform Telegram client implementation on Flutter for developers and enthusiasts
    * 📨 [Migratail (private)](https://github.com/Firoapps/Migratail) - helps to migrate from old mail services, browsers or systems
  
-* Blusutils x [SyrDB](https://github.com/syrdb)
+###### Blusutils x [SyrDB](https://github.com/syrdb)
   * 🗄 [BDSF.NET](https://github.com/Blusutils/BDSF.NET)🥶 - *Binary Data Store Format* implementation for .NET
   * 🍕 [SyrD.NET](https://github.com/syrdb/SyrD.NET)🥶 - [SyrDB](https://github.com/syrdb/SyrDB) driver for .NET
   * 🧀 [SyrBot](https://github.com/Blusutils/Syr) - Discord bot with great functionality
@@ -143,7 +139,7 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
 ## Social networks (in order of speed of reply)
 <details><summary>click to reveal</summary>
 
-> **Warning**: please, don't send me a friend requests, just join the related community (server, channels, etc.) if it exists. And if you sent friend request, describe what are you want as completly as you can. **NO QUESTIONS ABOUT DISCORD BOTS**
+> **Warning**: please just join the related community (server, channel, etc.) if it exists. And if you sent friend request, describe what are you want as completly as you can. **NO QUESTIONS ABOUT PYTHON OR DISCORD BOTS!**
 
 [Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172) or [Discord Server](https://discord.gg/bJkW8SSEeY)
 
@@ -172,7 +168,13 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
 
 #### Discord Activity
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/555638466365489172?idleMessage=Doing%20nothing)](https://discord.com/users/555638466365489172)
+<a href="https://discord.com/users/555638466365489172">
+  <img
+    src="https://lanyard.cnrad.dev/api/555638466365489172?idleMessage=Doing%20nothing"
+    alt="Discord Presence"
+    width=300
+  />
+</a>
 
 #### GitHub
 <details><summary>click to reveal</summary>
@@ -193,7 +195,12 @@ Like motion graphics in Cinema 4D and physics simulations in Blender.
 [![Wakatime profile](https://wakatime.com/badge/user/0d335b7c-5fc4-4716-9e58-4e0d11be214d.svg?style=flat-square)](https://wakatime.com/@EgorBron)
 
 <img
-  src="https://wakatime.com/share/@0d335b7c-5fc4-4716-9e58-4e0d11be214d/6a92ff98-cedd-43d0-a2d5-6f09fc76eaec.svg"
-  alt="Wakatime stats"
+  src="https://wakatime.com/share/@EgorBron/e276a505-ff9f-4cb2-885f-778f074830ee.svg"
+  alt="Wakatime stats - Languages"
+  width=500
+/>
+<img
+  src="https://wakatime.com/share/@EgorBron/98a0f5cf-84cc-433d-81fa-f5fcb834b626.svg"
+  alt="Wakatime stats - Editors"
   width=500
 />
