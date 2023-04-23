@@ -20,6 +20,24 @@ Strange and lazy but kind guy from Russia. Know Russian language as native, now 
 
 Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C++ langs.
 
+### Skills and toolset
+
+<sub>Languages</sub>
+
+[![Skills - Languages](https://skillicons.dev/icons?i=cs,py,lua,bash,,dart,c,cpp,kotlin,js,ts)](/)
+
+<sub>Platforms</sub>
+
+[![Skills - Platforms](https://skillicons.dev/icons?i=git,github,dotnet,docker,cmake,gradle,bots,wasm,linux)](/)
+
+<sub>UI, markup, DBs</sub>
+
+[![Skills - UI, markup, DBs](https://skillicons.dev/icons?i=flutter,bootstrap,jquery,godot,unity,,md,html,css,svg,,mongodb,postgres,sqlite)](/)
+
+<sub>Editors</sub>
+
+[![Skills - Editors](https://skillicons.dev/icons?i=visualstudio,vscode,idea,ps,blender,au,pr,ae,figma)](/)
+
 <!--
 <details><summary>Toolset</summary>
  
@@ -195,6 +213,7 @@ Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C+
 
 [![Wakatime profile](https://wakatime.com/badge/user/0d335b7c-5fc4-4716-9e58-4e0d11be214d.svg?style=flat-square)](https://wakatime.com/@EgorBron)
 
+<details><summary>click to reveal</summary>
 <img
   src="https://wakatime.com/share/@EgorBron/e276a505-ff9f-4cb2-885f-778f074830ee.svg"
   alt="Wakatime stats - Languages"
@@ -205,3 +224,4 @@ Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C+
   alt="Wakatime stats - Editors"
   width=500
 />
+ </details>
