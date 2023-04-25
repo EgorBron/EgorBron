@@ -160,25 +160,27 @@ Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C+
 
 > **Warning**: please just join the related community (server, channel, etc.) if it exists. And if you sent friend request, describe what are you want as completly as you can. **NO QUESTIONS ABOUT PYTHON OR DISCORD BOTS!**
 
-[Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172) or [Discord Server](https://discord.gg/bJkW8SSEeY)
+💿[Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172) or [Discord Server](https://discord.gg/bJkW8SSEeY)
 
-[Telegram DM (@egorbronn)](https://t.me/egorbronn) or [channel (@egorbron_sleep, RU)](https://t.me/egorbron_sleep) 
+🧻[Telegram DM (@egorbronn)](https://t.me/egorbronn) or [channel (@egorbron_sleep, RU)](https://t.me/egorbron_sleep) 
 
-[YouTube (@EgorBron)](https://youtube.com/@EgorBron)
+▶[YouTube (@EgorBron)](https://youtube.com/@EgorBron)
 
-[Steam](https://steamcommunity.com/id/EgorBronn/)
+⏺[Steam](https://steamcommunity.com/id/EgorBronn/)
 
-[DonationAlerts](https://www.donationalerts.com/c/egorbron)
+💬[DonationAlerts](https://www.donationalerts.com/c/egorbron)
 
-[E-mail (egorbron@inbox.ru)](mailto:egorbron@inbox.ru)
+📧[E-mail (egorbron@inbox.ru)](mailto:egorbron@inbox.ru)
 
-[VK (@egorbronn)](https://vk.com/egorbronn) (inactive, may not reply) 
+⏹[VK (@egorbronn)](https://vk.com/egorbronn) (inactive, may not reply) 
 
-[osu!profile](https://osu.ppy.sh/users/15136301) (noreply)
+🟣[osu!profile](https://osu.ppy.sh/users/15136301) (noreply)
+ 
+🐳[Docker Hub](https://hub.docker.com/u/egorbron) (noreply)
 
-[Itch](https://egorbron.itch.io/) (noreply)
+🏪[Itch](https://egorbron.itch.io/) (noreply)
 
-[Ko-fi](https://ko-fi.com/egorbron) (noreply)
+☕[Ko-fi](https://ko-fi.com/egorbron) (noreply)
 
 *More links will appear soon...*
 </details>
