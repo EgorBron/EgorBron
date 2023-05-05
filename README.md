@@ -22,6 +22,8 @@ Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C+
 
 ### Skills and toolset
 
+<details><summary>click to reveal</summary>
+
 <sub>Languages</sub>
 
 [![Skills - Languages](https://skillicons.dev/icons?i=cs,py,lua,bash,,dart,c,cpp,kotlin,js,ts)](/)
@@ -36,7 +38,8 @@ Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C+
 
 <sub>Editors</sub>
 
-[![Skills - Editors](https://skillicons.dev/icons?i=visualstudio,vscode,idea,ps,blender,au,pr,ae,figma)](/)
+[![Skills - Editors](https://skillicons.dev/icons?i=visualstudio,vscode,idea,ps,blender,au,pr,ae,figma)](/) 
+</details>
 
 <!--
 <details><summary>Toolset</summary>
@@ -105,7 +108,7 @@ Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C+
 <hr>
 -->
 
-## My projects
+### My projects
 <details><summary>click to reveal</summary>
 
 > Here are all the projects that I work on or have worked on recently.
@@ -155,7 +158,7 @@ Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C+
   * 🔁 [RouC](https://github.com/Blusutils/RouC)🥶 - the web anonymous **Rou**lette **C**hat
 </details>
 
-## Social networks (in order of speed of reply)
+### Social networks (in order of speed of reply)
 <details><summary>click to reveal</summary>
 
 > **Warning**: please just join the related community (server, channel, etc.) if it exists. And if you sent friend request, describe what are you want as completly as you can. **NO QUESTIONS ABOUT PYTHON OR DISCORD BOTS!**
@@ -185,10 +188,10 @@ Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C+
 *More links will appear soon...*
 </details>
 
-## Statistics (not fully precise)
+### Statistics (not fully precise)
 
 #### Discord Activity
-
+<details><summary>click to reveal</summary>
 <a href="https://discord.com/users/555638466365489172">
   <img
     src="https://lanyard.cnrad.dev/api/555638466365489172?idleMessage=Doing%20nothing"
@@ -196,7 +199,8 @@ Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C+
     width=300
   />
 </a>
-
+</details>
+ 
 #### GitHub
 <details><summary>click to reveal</summary>
  
