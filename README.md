@@ -4,15 +4,9 @@
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)-->
 ![Profile views](https://komarev.com/ghpvc/?username=EgorBron&color=4c10cc&style=flat-square)
 > ~Not~ always sleeping and ~not~ that serious.
-> 
-> #localhostisthebesthost
-
-Hello and welcome to my Github profile! Here you can find some info about me and social links.
-
-<hr>
 
 ### About me
-My name is Yegor (Егор), but I prefer to write "Egor". He/him.
+Hi! My name is Yegor (Егор), but I prefer to write "Egor". He/him.
 
 16 y. o., birthday Oct 20.
 
