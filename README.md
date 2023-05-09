@@ -12,7 +12,7 @@ Hi! My name is Yegor (Егор), but I prefer to write "Egor". He/him.
 
 Strange and lazy but kind guy from Russia. Know Russian language as native, now learning English<!--, want to learn Interslavic and Chinese-->.
 
-Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C++ langs.
+Junior in C# and Python, currently learning Java/Kotlin, TypeScript, Dart, Assembly and ~~C/C++~~ Rust langs.
 
 ### Skills and toolset
 
@@ -20,7 +20,7 @@ Junior in C# and Python, currently learning Java/Kotlin, Dart, Assembly and C/C+
 
 <sub>Languages</sub>
 
-[![Skills - Languages](https://skillicons.dev/icons?i=cs,py,lua,bash,,dart,c,cpp,kotlin,js,ts)](/)
+[![Skills - Languages](https://skillicons.dev/icons?i=cs,py,lua,bash,,dart,c,cpp,rust,kotlin,js,ts)](/)
 
 <sub>Platforms</sub>
 
