@@ -2,17 +2,15 @@
 <!--<img src="https://avatars.githubusercontent.com/u/71507444?s=64" style="border-radius: 4px;" alt="Avatar">-->
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)-->
-![Profile views](https://komarev.com/ghpvc/?username=EgorBron&color=4c10cc&style=flat-square)
-> ~Not~ always sleeping and ~not~ that serious.
+<details><summary></summary>
+ ![Profile views](https://komarev.com/ghpvc/?username=EgorBron&color=4c10cc&style=flat-square)
+</details>
 
-### About me
-Hi! My name is Yegor (Егор), but I prefer to write "Egor". He/him.
+Hi! My name is Yegor (Егор), but I prefer to write "Egor". I'm 16 y. o., birthday Oct 20.
 
-16 y. o., birthday Oct 20.
+Strange and lazy but kind guy from Russia.
 
-Strange and lazy but kind guy from Russia. Know Russian language as native, now learning English<!--, want to learn Interslavic and Chinese-->.
-
-Junior in C# and Python, currently learning Java/Kotlin, TypeScript, Dart, Assembly and ~~C/C++~~ Rust langs.
+Junior in C# and Python, currently learning Java/Kotlin, TypeScript, Dart, ~~C/C++~~ Rust and Assembly languages.
 
 ### Skills and toolset
 
@@ -24,7 +22,7 @@ Junior in C# and Python, currently learning Java/Kotlin, TypeScript, Dart, Assem
 
 <sub>Platforms</sub>
 
-[![Skills - Platforms](https://skillicons.dev/icons?i=git,github,dotnet,docker,cmake,gradle,bots,wasm,linux)](/)
+[![Skills - Platforms](https://skillicons.dev/icons?i=git,github,dotnet,docker,cmake,gradle,bots,wasm,linux,discord)](/)
 
 <sub>UI, markup, DBs</sub>
 
@@ -111,38 +109,24 @@ Junior in C# and Python, currently learning Java/Kotlin, TypeScript, Dart, Assem
 
 ###### Personal projects
   * 📄 [Some GitHub Gists](https://gist.github.com/EgorBron)
-  * 📦 [AutoJPPRooms (private)](https://github.com/EgorBron/AutoJPPRooms) - automated livestream for Jackbox Party Packs (DESrv plugin)
   * 🔌 [SocketSaber](https://github.com/EgorBron/SocketSaber) - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
-  * 😺 [anekos](https://github.com/EgorBron/anekos)✔ - simple and shitty async Nekos.life API interactor 
-  * 🚇 [How Long On Subway](https://github.com/EgorBron/HowLongOnSubway)🥶 - subway travel time calculator
   * 🖼 [BSDRP](https://github.com/EgorBron/BSDRP) - DRP (Discord Rich Presence) implementation for Beat Saber
   * 🎋 [GrasscutterCommandGenerator](https://github.com/EgorBron/GrasscutterCommandGenerator)🥶 - fork of [GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) with few new features and translations fixes
   * 🏞 [TurfTooley](https://github.com/EgorBron/TurfTooley) (private) - completely reinvented GrasscutterCommandGenerator, mod manager and launcher made with Avalonia and some turf
-  * 🙀 [WHAT THE CAT?!](https://github.com/EgorBron/WHAT-THE-CAT)✔ - joke "virus" that spams with cat images (and not only cats)
   * 🎣 [Trapp](https://github.com/EgorBron/Trapp)🥶 - Android app what can help interact with "APIs that returns random images"
-  * 💽 [EasyDriveIcon](https://github.com/EgorBron/EasyDriveIcon)✔ - util for change drive icon in Windows explorer
   * 📸 [ae2gd](https://github.com/EgorBron/ae2gd)🥶 - plugin for After Effects that imports composition to Geometry Dash level
   * 🌋 [XGauntlet](https://github.com/EgorBron/XGauntlet) - Geode mod for Geometry Dash that helps to add more "gauntlets"
   * 〽 [BlenderMoGraph](https://github.com/EgorBron/BlenderMoGraph)🥶 - addon for Blender that provides tools related to easy work with motion grpahics
-  * 🦠 [PIMS](https://github.com/EgorBron/PIMS)🥶 - custom server for Plague Inc. (DESrv plugin)
-  * 🧵 [fastpath](https://github.com/EgorBron/fastpath)🥶 - easy way to add something to PATH env. variable using CLI
-  * 🗡 [SKMS](https://github.com/EgorBron/SKMS)🥶 - custom server for Soul Knight (DESrv plugin)
 
 ###### [Blusutils](https://github.com/Blusutils/) projets
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server for usage in different tasks
   * 🌄 [DESCEndLib](https://github.com/Blusutils/DESCEndLib)✔ - multipurposal .NET library
-  * 🔍 [DESrv Plugin Example](https://github.com/Blusutils/desrv-pdk-example) - example plugin for DESrv using PDK
-  * ⚙ [Blusutils Python library](https://github.com/Blusutils/blusutilspy)✔ - library with random functionality
-  * 💧 Niquid (private)🥶 - yet another logic game
-  * 🌐 [SimpleTranslate (private, but will open soon)](https://github.com/Blusutils/SimpleTranslate)🥶 - simple web CAT tool and translations hosting
-  * 📝 [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge)🥶 - artwork theme prompt generator for "creating whatever you want (if you want too much)"
-  * 🔥 Elemheadz (private)🥶 - yet another platformer game
   * 📰 [Blusutils Newscenter (private)](https://github.com/Blusutils/Newscenter)🥶 - IfTTT-like news crossposting solution
   * 👷‍♀️ [AniTycoon (private)](https://github.com/Blusutils/AniTycoon) - yet another Discord bot
 
  ###### Blusutils [Firoapps](https://github.com/Firoapps)
    * 📹 [CaptureExp (private)](https://github.com/Firoapps/CaptureExp)🥶 - shitty motion capture implementation for VR and exportion to some 3D software
-   * 🎆 [Firogram (private)](https://github.com/Firoapps/Firogram) - cross-platform Telegram client implementation on Flutter for developers and enthusiasts
+   * 🎆 [Firogram (private)](https://github.com/Firoapps/Firogram) - cross-platform Telegram client implementation for developers and enthusiasts (Firochats series)
    * 📨 [Migratail (private)](https://github.com/Firoapps/Migratail) - helps to migrate from old mail services, browsers or systems
  
 ###### Blusutils x [SyrDB](https://github.com/syrdb)
@@ -155,7 +139,7 @@ Junior in C# and Python, currently learning Java/Kotlin, TypeScript, Dart, Assem
 ### Social networks (in order of speed of reply)
 <details><summary>click to reveal</summary>
 
-> **Warning**: please just join the related community (server, channel, etc.) if it exists. And if you sent friend request, describe what are you want as completly as you can. **NO QUESTIONS ABOUT PYTHON OR DISCORD BOTS!**
+> If you can/want, please just join the related community (server, channel, etc.) if it exists. And if you sent friend request or DM, describe what are you want as completly as you can. **Please sure to not ask about Python or bots!**
 
 💿[Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172) or [Discord Server](https://discord.gg/bJkW8SSEeY)
 
@@ -179,7 +163,6 @@ Junior in C# and Python, currently learning Java/Kotlin, TypeScript, Dart, Assem
 
 ☕[Ko-fi](https://ko-fi.com/egorbron) (noreply)
 
-*More links will appear soon...*
 </details>
 
 ### Statistics (not fully precise)
@@ -211,9 +194,10 @@ Junior in C# and Python, currently learning Java/Kotlin, TypeScript, Dart, Assem
 
 #### Wakatime
 
-[![Wakatime profile](https://wakatime.com/badge/user/0d335b7c-5fc4-4716-9e58-4e0d11be214d.svg?style=flat-square)](https://wakatime.com/@EgorBron)
-
 <details><summary>click to reveal</summary>
+ 
+ [![Wakatime profile](https://wakatime.com/badge/user/0d335b7c-5fc4-4716-9e58-4e0d11be214d.svg?style=flat-square)](https://wakatime.com/@EgorBron)
+ 
 <img
   src="https://wakatime.com/share/@EgorBron/e276a505-ff9f-4cb2-885f-778f074830ee.svg"
   alt="Wakatime stats - Languages"
