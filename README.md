@@ -3,7 +3,9 @@
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)-->
 <details><summary></summary>
+ 
  ![Profile views](https://komarev.com/ghpvc/?username=EgorBron&color=4c10cc&style=flat-square)
+ 
 </details>
 
 Hi! My name is Yegor (Егор), but I prefer to write "Egor". I'm 16 y. o., birthday Oct 20.
