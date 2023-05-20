@@ -14,6 +14,8 @@ Strange and lazy but kind guy from Russia.
 
 Junior in C# and Python, currently learning Java/Kotlin, TypeScript, Dart, ~~C/C++~~ Rust and Assembly languages.
 
+<details><summary><h5><i>Click here to see more</i></h5></summary>
+
 ### Skills and toolset
 
 <details><summary>click to reveal</summary>
@@ -210,4 +212,6 @@ Junior in C# and Python, currently learning Java/Kotlin, TypeScript, Dart, ~~C/C
   alt="Wakatime stats - Editors"
   width=500
 />
+ </details>
+ 
  </details>
