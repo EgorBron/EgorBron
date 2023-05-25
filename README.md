@@ -8,11 +8,11 @@
  
 </details>
 
-Hi! My name is Yegor (Егор), but I prefer to write "Egor". I'm 16 y. o., birthday Oct 20.
+Hi! My name is Yegor Bron (Егор Брон) (that's not real surname), 16 y. o. guy born Oct 20.
 
-Strange and lazy but kind guy from Russia.
+I'm from Russia, live in the small town of Saransk.
 
-Junior in C# and Python, currently learning Java/Kotlin, TypeScript, Dart, ~~C/C++~~ Rust and Assembly languages.
+Interested in and engaged in backend development. I mostly use C# and Python in my work, also have some knowledge of Dart, C/C++, JS/TS, Lua, Kotlin and Rust.
 
 <details><summary><h5><i>Click here to see more</i></h5></summary>
 
@@ -30,7 +30,7 @@ Junior in C# and Python, currently learning Java/Kotlin, TypeScript, Dart, ~~C/C
 
 <sub>UI, markup, DBs</sub>
 
-[![Skills - UI, markup, DBs](https://skillicons.dev/icons?i=flutter,bootstrap,jquery,godot,unity,,md,html,css,svg,,mongodb,postgres,sqlite)](/)
+[![Skills - UI, markup, DBs](https://skillicons.dev/icons?i=flutter,bootstrap,jquery,godot,unity,,md,html,css,svg,regex,,mongodb,postgres,sqlite)](/)
 
 <sub>Editors</sub>
 
