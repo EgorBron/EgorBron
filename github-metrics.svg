@@ -2499,7 +2499,7 @@ Quarter of quarter of fullstack.</div>
                                     </svg>
                                     <div class="name">
                                         <span>3F/Conari</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧬 One-touch unmanaged memory, runtime dynamic use of the unmanaged native C/C++ in .NET world, related P/Invoke features, and …</div>
@@ -2552,7 +2552,7 @@ Quarter of quarter of fullstack.</div>
                                     </svg>
                                     <div class="name">
                                         <span>3F/DllExport</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">.NET DllExport with .NET Core support (aka 3F/DllExport aka DllExport.bat)</div>
@@ -2605,7 +2605,7 @@ Quarter of quarter of fullstack.</div>
                                     </svg>
                                     <div class="name">
                                         <span>zhiyiYo/PyQt-Fluent-Widgets</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fluent design widgets library based on PyQt5</div>
@@ -3296,7 +3296,7 @@ Quarter of quarter of fullstack.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.68m out of 403m repositories</span>
+                                    <span class="gh">ranked 4.77m out of 403m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -3627,7 +3627,7 @@ Quarter of quarter of fullstack.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2023, 20:03:59 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 May 2023, 21:27:56 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
