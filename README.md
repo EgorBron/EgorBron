@@ -145,7 +145,7 @@ Interested in and engaged in backend development. I mostly use C# and Python in 
 
 > If you can/want, please just join the related community (server, channel, etc.) if it exists. And if you sent friend request or DM, describe what are you want as completly as you can. **Please sure to not ask about Python or bots!**
 
-💿[Discord (Егор Брон#3443)](https://discord.com/users/555638466365489172) or [Discord Server](https://discord.gg/bJkW8SSEeY)
+💿[Discord (@egorbron)](https://discord.com/users/555638466365489172) or [Discord Server](https://discord.gg/bJkW8SSEeY)
 
 🧻[Telegram DM (@egorbronn)](https://t.me/egorbronn) or [channel (@egorbron_sleep, RU)](https://t.me/egorbron_sleep) 
 
