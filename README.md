@@ -1,4 +1,4 @@
-# Egor Bron // Егор Брон
+# [Egor Bron](https://egorbron.github.io/)
 <!--<img src="https://avatars.githubusercontent.com/u/71507444?s=64" style="border-radius: 4px;" alt="Avatar">-->
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/egorbron)-->
@@ -8,7 +8,7 @@
  
 </details>
 
-Hi! My name is Yegor Bron (Егор Брон) (that's not real surname), 16 y. o. guy born Oct 20.
+Hi! My name is Yegor Bron (Егор Брон), 16 y. o. guy born Oct 20.
 
 I'm from Russia, live in the small town of Saransk.
 
@@ -37,73 +37,6 @@ Interested in and engaged in backend development. I mostly use C# and Python in 
 [![Skills - Editors](https://skillicons.dev/icons?i=visualstudio,vscode,idea,ps,blender,au,pr,ae,figma)](/) 
 </details>
 
-<!--
-<details><summary>Toolset</summary>
- 
- * 2D Design
-   * Adobe Photoshop (CC 2015 and CC 2022)
-   * Figma (latest)
- * 3D design
-   * Cinema 4D r20-r21
-   * Blender (2.8, 3.3)
- * Video-related
-   * OBS Studio (28+)
-   * Adobe Premiere Pro (CC 2022)
-   * Adobe After Effects (CC 2022)
- * Music/audio
-   * Adobe Audition (CC 2014, CC 2022)
-   * MuseScore 3
-   * Embers (latest)
- * Networking
-   * PuTTY (latest)
-   * Hamachi (2.2)
-   * BurpSuite Community (2022+)
-   * Postman (10+)
-   * Fiddler Classic (5.0)
- * Personalization
-   * Rainmeter (latest)
-   * KeyGo (latest)
-   * Notifications Visualizer (latest)
-   * PowerToys (latest)
- * Programming
-   * Languages
-     * Python (3.11.3, 3.9.6, 2.7, mainly 3.11.3)
-     * .NET (4.8 Framework, 5.0-7.0 Core, mainly 7.0)
-      * C# (7-11, mainly 10-11)
-     * JVM
-      * Java (8, 16, 17, mainly 17)
-      * Kotlin (1.7)
-      * Scala (3.1)
-     * C++ (10, 21, mainly 21)
-     * Lua (5.4)
-     * Dart (2.18)
-     * Web-related (HTML, CSS, JS)
-   * Databases
-     * MongoDB (5.0 Enteripse)
-     * SQLite
-   * Editors & IDEs
-     * Visual Studio 2022 (17)
-     * Visual Studio Code (latest)
-     * Android Studio (2021.3)
-     * IntelliJ IDEA (2022.2)
-     * Notepad++ (latest)
-   * Game engines
-     * Godot (4.0)
-     * Unity (2017, 2021, mostly 2017)
-   * Reverse engineering tools
-     * dnSpyEx (latest)
-     * ImHex (latest)
-     * Cheat Engine (latest)
-     * Resource Hacker (latest)
-     * cpp2il
-   * Mod APIs
-     * Fabric (Minecraft) (latest)
-     * BSPIA (Beat Saber and other Unity Mono-backend games) (latest)
-     * Melon Loader (Unity) (latest)
-</details>
-<hr>
--->
-
 ### My projects
 <details><summary>click to reveal</summary>
 
@@ -113,30 +46,42 @@ Interested in and engaged in backend development. I mostly use C# and Python in 
 
 ###### Personal projects
   * 📄 [Some GitHub Gists](https://gist.github.com/EgorBron)
-  * 🔌 [SocketSaber](https://github.com/EgorBron/SocketSaber) - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
-  * 🖼 [BSDRP](https://github.com/EgorBron/BSDRP) - DRP (Discord Rich Presence) implementation for Beat Saber
-  * 🎋 [GrasscutterCommandGenerator](https://github.com/EgorBron/GrasscutterCommandGenerator)🥶 - fork of [GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) with few new features and translations fixes
-  * 🏞 [TurfTooley](https://github.com/EgorBron/TurfTooley) (private) - completely reinvented GrasscutterCommandGenerator, mod manager and launcher made with Avalonia and some turf
-  * 🎣 [Trapp](https://github.com/EgorBron/Trapp)🥶 - Android app what can help interact with "APIs that returns random images"
+  * ❎ [Move or Die modding manual](https://github.com/EgorBron/MoveOrDie-Modding) - collection of manuals & community docs about modding in MoD 
+  * 📲 [BuildingRPC](https://github.com/EgorBron/BuildingRPC) - attempt to make RPC on C# that aims to use "Builder" pattern to create calls
+  * 📄 [shhta](https://github.com/EgorBron/shhta) - safe host for HyperTextApplications (analog for obsolete MSHTA)
+  * 🔌 [SocketSaber](https://github.com/EgorBron/SocketSaber)🥶 - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
+  * 🖼 [BSDRP](https://github.com/EgorBron/BSDRP)🥶 - DRP (Discord Rich Presence) implementation for Beat Saber
+  * 🎋 [GrasscutterCommandGenerator](https://github.com/EgorBron/GrasscutterCommandGenerator)🥶 - fork of [GCG](https://github.com/jie65535/GrasscutterCommandGenerator) with few new features and translations fixes
   * 📸 [ae2gd](https://github.com/EgorBron/ae2gd)🥶 - plugin for After Effects that imports composition to Geometry Dash level
-  * 🌋 [XGauntlet](https://github.com/EgorBron/XGauntlet) - Geode mod for Geometry Dash that helps to add more "gauntlets"
-  * 〽 [BlenderMoGraph](https://github.com/EgorBron/BlenderMoGraph)🥶 - addon for Blender that provides tools related to easy work with motion grpahics
+  * 🌋 [XGauntlet](https://github.com/EgorBron/XGauntlet)🥶 - Geode mod for Geometry Dash that helps to add more "gauntlets"
+  * 🤖 [ConsChatGPT](https://github.com/EgorBron/ConsChatGPT)✔ - not so good implementation of ChatGPT (gpt-3.5-turbo) usage through console
+  * 💽 [EasyDriveIcon](https://github.com/EgorBron/EasyDriveIcon)✔ - util for change drive icon in Windows explorer
+  * 🙀 [WHAT THE CAT?!](https://github.com/EgorBron/WHAT-THE-CAT)✔ - joke "virus" that spams with cat images (and not only cats)
+  * *And lots of private repos with "great" ideas...*
 
 ###### [Blusutils](https://github.com/Blusutils/) projets
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server for usage in different tasks
+  * 🎞️ [Blusutils Overalls](https://overalls.blusutils.net) - a set of useful web services for interaction between enterprise logic and the end user
+   * ⤴️ [RPN - RePosting.NETwork (private)](https://github.com/Blusutils/RPN) - a .NET API to create reposting APIs
+   * 📰 [Blusutils Newscenter (private)](https://github.com/Blusutils/Newscenter)🥶 - IfTTT-like news crossposting solution
+   * 📜 [forme.ly (private)](https://github.com/Blusutils/forme.ly)🥶 - modern & convient forms builder
+   * 👥 [forumά (private)](https://github.com/Blusutils/foruma)🥶 - template for forum pages
+   * 🔗 [SLS (private)](https://github.com/Blusutils/SLS)🥶 - short links system
+   * 🪪 [BlusuBio (private)](https://github.com/Blusutils/Bio)🥶 - biography landing pages builder
+  * 👷‍♀️ [AniTycoon (private)](https://github.com/Blusutils/AniTycoon)🥶 - yet another Discord bot
   * 🌄 [DESCEndLib](https://github.com/Blusutils/DESCEndLib)✔ - multipurposal .NET library
-  * 📰 [Blusutils Newscenter (private)](https://github.com/Blusutils/Newscenter)🥶 - IfTTT-like news crossposting solution
-  * 👷‍♀️ [AniTycoon (private)](https://github.com/Blusutils/AniTycoon) - yet another Discord bot
 
  ###### Blusutils [Firoapps](https://github.com/Firoapps)
    * 📹 [CaptureExp (private)](https://github.com/Firoapps/CaptureExp)🥶 - shitty motion capture implementation for VR and exportion to some 3D software
-   * 🎆 [Firogram (private)](https://github.com/Firoapps/Firogram) - cross-platform Telegram client implementation for developers and enthusiasts (Firochats series)
-   * 📨 [Migratail (private)](https://github.com/Firoapps/Migratail) - helps to migrate from old mail services, browsers or systems
+   * 🎆 [Firochat (private)](https://github.com/Firoapps)🥶 - cross-platform all-in-one messengers client implementation for developers and enthusiasts
+   * 📨 [Migratail (private)](https://github.com/Firoapps/Migratail)🥶 - helps to migrate from old mail services, browsers or systems
+   * 🏞 [TurfTooley (private)](https://github.com/EgorBron/TurfTooley)🥶 - wildcard template for any sort of launchers made with mind and some turf
+   * 🪔 [LAMP (private)](https://github.com/Firoapps/LAMP)🥶 - Light All Media Player
  
 ###### Blusutils x [SyrDB](https://github.com/syrdb)
   * 🗄 [BDSF.NET](https://github.com/Blusutils/BDSF.NET)🥶 - *Binary Data Store Format* implementation for .NET
   * 🍕 [SyrD.NET](https://github.com/syrdb/SyrD.NET)🥶 - [SyrDB](https://github.com/syrdb/SyrDB) driver for .NET
-  * 🧀 [SyrBot](https://github.com/Blusutils/Syr) - Discord bot with great functionality
+  * 🧀 [SyrBot](https://github.com/Blusutils/Syr)🥶 - Discord bot with great functionality
   * 🔁 [RouC](https://github.com/Blusutils/RouC)🥶 - the web anonymous **Rou**lette **C**hat
 </details>
 
