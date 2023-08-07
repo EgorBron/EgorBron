@@ -62,12 +62,12 @@ Interested in and engaged in backend development. I mostly use C# and Python in 
 ###### [Blusutils](https://github.com/Blusutils/) projets
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server for usage in different tasks
   * 🎞️ [Blusutils Overalls](https://overalls.blusutils.net) - a set of useful web services for interaction between enterprise logic and the end user
-   * ⤴️ [RPN - RePosting.NETwork (private)](https://github.com/Blusutils/RPN) - a .NET API to create reposting APIs
-   * 📰 [Blusutils Newscenter (private)](https://github.com/Blusutils/Newscenter)🥶 - IfTTT-like news crossposting solution
-   * 📜 [forme.ly (private)](https://github.com/Blusutils/forme.ly)🥶 - modern & convient forms builder
-   * 👥 [forumά (private)](https://github.com/Blusutils/foruma)🥶 - template for forum pages
-   * 🔗 [SLS (private)](https://github.com/Blusutils/SLS)🥶 - short links system
-   * 🪪 [BlusuBio (private)](https://github.com/Blusutils/Bio)🥶 - biography landing pages builder
+    * ⤴️ [RPN - RePosting.NETwork (private)](https://github.com/Blusutils/RPN) - a .NET API to create reposting APIs
+    * 📰 [Blusutils Newscenter (private)](https://github.com/Blusutils/Newscenter)🥶 - IfTTT-like news crossposting solution
+    * 📜 [forme.ly (private)](https://github.com/Blusutils/forme.ly)🥶 - modern & convient forms builder
+    * 👥 [forumά (private)](https://github.com/Blusutils/foruma)🥶 - template for forum pages
+    * 🔗 [SLS (private)](https://github.com/Blusutils/SLS)🥶 - short links system
+    * 🪪 [BlusuBio (private)](https://github.com/Blusutils/Bio)🥶 - biography landing pages builder
   * 👷‍♀️ [AniTycoon (private)](https://github.com/Blusutils/AniTycoon)🥶 - yet another Discord bot
   * 🌄 [DESCEndLib](https://github.com/Blusutils/DESCEndLib)✔ - multipurposal .NET library
 
