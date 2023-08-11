@@ -26,11 +26,11 @@ Interested in and engaged in backend development. I mostly use C# and Python in 
 
 <sub>Platforms</sub>
 
-[![Skills - Platforms](https://skillicons.dev/icons?i=git,github,dotnet,docker,cmake,gradle,bots,wasm,linux,discord)](/)
+[![Skills - Platforms](https://skillicons.dev/icons?i=discord,git,github,dotnet,docker,bots,linux,cmake,gradle,wasm)](/)
 
 <sub>UI, markup, DBs</sub>
 
-[![Skills - UI, markup, DBs](https://skillicons.dev/icons?i=flutter,bootstrap,jquery,godot,unity,,md,html,css,svg,regex,,mongodb,postgres,sqlite)](/)
+[![Skills - UI, markup, DBs](https://skillicons.dev/icons?i=flutter,bootstrap,jquery,godot,unity,,md,html,css,svg,regex,,mongodb,sqlite,postgres)](/)
 
 <sub>Editors</sub>
 
@@ -59,7 +59,7 @@ Interested in and engaged in backend development. I mostly use C# and Python in 
   * 🙀 [WHAT THE CAT?!](https://github.com/EgorBron/WHAT-THE-CAT)✔ - joke "virus" that spams with cat images (and not only cats)
   * *And lots of private repos with "great" ideas...*
 
-###### [Blusutils](https://github.com/Blusutils/) projets
+###### [Blusutils](https://github.com/Blusutils/) projects
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server for usage in different tasks
   * 🎞️ [Blusutils Overalls](https://overalls.blusutils.net) - a set of useful web services for interaction between enterprise logic and the end user
     * ⤴️ [RPN - RePosting.NETwork (private)](https://github.com/Blusutils/RPN) - a .NET API to create reposting APIs
