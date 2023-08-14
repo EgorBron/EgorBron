@@ -2478,7 +2478,7 @@ Quarter of quarter of fullstack.</div>
                                     </svg>
                                     <div class="name">
                                         <span>h4sh5/pypi-auto-scanner</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically scan new pypi packages for potentially malicious code</div>
@@ -2512,7 +2512,7 @@ Quarter of quarter of fullstack.</div>
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        59.7k
+                                        59.9k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2531,7 +2531,7 @@ Quarter of quarter of fullstack.</div>
                                     </svg>
                                     <div class="name">
                                         <span>axieum/authme</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2655,7 +2655,7 @@ Quarter of quarter of fullstack.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Aug 2023, 04:14:19 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Aug 2023, 09:22:44 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
