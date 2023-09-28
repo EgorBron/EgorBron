@@ -2499,7 +2499,7 @@ Quarter of quarter of fullstack.</div>
                                     </svg>
                                     <div class="name">
                                         <span>JakeWharton/timber</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A logger with a small, extensible API which provides utility on top of Android's normal Log class.</div>
@@ -2552,7 +2552,7 @@ Quarter of quarter of fullstack.</div>
                                     </svg>
                                     <div class="name">
                                         <span>dgtlmoon/changedetection.io</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification</div>
@@ -2803,7 +2803,7 @@ Quarter of quarter of fullstack.</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.32m out of 120m users</span>
+                                    <span class="gh">ranked 1.32m out of 119m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">32</div>
                                     </div>
@@ -2821,7 +2821,7 @@ Quarter of quarter of fullstack.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.6974674880219165 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.9096509240246518 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3093,7 +3093,7 @@ Quarter of quarter of fullstack.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 419k out of 120m users</span>
+                                    <span class="gh">ranked 419k out of 119m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">29</div>
                                     </div>
@@ -3296,7 +3296,7 @@ Quarter of quarter of fullstack.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.52m out of 57.7m repositories</span>
+                                    <span class="gh">ranked 4.84m out of 51.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -3627,7 +3627,7 @@ Quarter of quarter of fullstack.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2023, 09:24:01 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Sept 2023, 15:35:34 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
