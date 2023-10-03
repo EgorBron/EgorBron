@@ -2489,7 +2489,7 @@ Quarter of quarter of fullstack.</div>
                                     </svg>
                                     <div class="name">
                                         <span>dotX12/ShazamIO</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎵 Is a free asynchronous library from reverse engineered Shazam API written in Python 3.8+ with asyncio and aiohttp.</div>
@@ -2542,7 +2542,7 @@ Quarter of quarter of fullstack.</div>
                                     </svg>
                                     <div class="name">
                                         <span>13g10n/aiogram-forms</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An addition for `aiogram` which allows you to create different forms and process user input step by step easily.</div>
@@ -2595,7 +2595,7 @@ Quarter of quarter of fullstack.</div>
                                     </svg>
                                     <div class="name">
                                         <span>Tishka17/aiogram_dialog</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GUI framework on top of aiogram</div>
@@ -3286,7 +3286,7 @@ Quarter of quarter of fullstack.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.82m out of 67.6m repositories</span>
+                                    <span class="gh">ranked 4.31m out of 48.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -3617,7 +3617,7 @@ Quarter of quarter of fullstack.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2023, 04:17:25 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2023, 09:24:05 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
