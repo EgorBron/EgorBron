@@ -12,9 +12,9 @@ Hi! My name is Yegor Bron (Егор Брон), 16 y. o. guy born Oct 20.
 
 I'm from Russia, live in the small town of Saransk.
 
-Interested in and engaged in backend development. I mostly use C# and Python in my work, also have some knowledge of Dart, C/C++, JS/TS, Lua, Kotlin and Rust.
+Interested in and engaged in backend development. I mostly use C# and Python in my work, also have some knowledge of C/C++, JS/TS, Lua, Kotlin, Dart and Rust.
 
-<details><summary><h5><i>Click here to see more</i></h5></summary>
+<details><summary><i>Click here to see more</i></summary>
 
 ### Skills and toolset
 
@@ -22,7 +22,7 @@ Interested in and engaged in backend development. I mostly use C# and Python in 
 
 <sub>Languages</sub>
 
-[![Skills - Languages](https://skillicons.dev/icons?i=cs,py,lua,bash,,dart,c,cpp,rust,kotlin,js,ts)](/)
+[![Skills - Languages](https://skillicons.dev/icons?i=cs,py,kotlin,bash,,dart,c,cpp,rust,lua,js,ts)](/)
 
 <sub>Platforms</sub>
 
