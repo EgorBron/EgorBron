@@ -12,7 +12,7 @@ Hi! My name is Yegor Bron (Егор Брон), 16 y. o. guy born Oct 20.
 
 I'm from Russia, live in the small town of Saransk.
 
-Interested in and engaged in backend development. I mostly use C# and Python in my work, also have some knowledge of C/C++, JS/TS, Lua, Kotlin, Dart and Rust.
+Interested in and engaged in backend development. I mostly use C# in my work, previously used Kotlin and Python, and also I have some knowledge of C, C++, JS/TS, Lua, Dart, Go and Rust.
 
 <details><summary><i>Click here to see more</i></summary>
 
@@ -22,15 +22,15 @@ Interested in and engaged in backend development. I mostly use C# and Python in 
 
 <sub>Languages</sub>
 
-[![Skills - Languages](https://skillicons.dev/icons?i=cs,py,kotlin,bash,,dart,c,cpp,rust,lua,js,ts)](/)
+[![Skills - Languages](https://skillicons.dev/icons?i=cs,py,kotlin,bash,,dart,c,cpp,go,lua,rust,js,ts)](/)
 
 <sub>Platforms</sub>
 
 [![Skills - Platforms](https://skillicons.dev/icons?i=discord,git,github,dotnet,docker,bots,linux,cmake,gradle,wasm)](/)
 
-<sub>UI, markup, DBs</sub>
+<sub>GUI, markup, DBs</sub>
 
-[![Skills - UI, markup, DBs](https://skillicons.dev/icons?i=flutter,bootstrap,jquery,godot,unity,,md,html,css,svg,regex,,mongodb,sqlite,postgres)](/)
+[![Skills - UI, markup, DBs](https://skillicons.dev/icons?i=bootstrap,jquery,godot,unity,,md,html,css,svg,regex,,mongodb,sqlite,postgres)](/)
 
 <sub>Editors</sub>
 
@@ -46,14 +46,8 @@ Interested in and engaged in backend development. I mostly use C# and Python in 
 
 ###### Personal projects
   * 📄 [Some GitHub Gists](https://gist.github.com/EgorBron)
-  * ❎ [Move or Die modding manual](https://github.com/EgorBron/MoveOrDie-Modding) - collection of manuals & community docs about modding in MoD 
-  * 📲 [BuildingRPC](https://github.com/EgorBron/BuildingRPC) - attempt to make RPC on C# that aims to use "Builder" pattern to create calls
-  * 📄 [shhta](https://github.com/EgorBron/shhta) - safe host for HyperTextApplications (analog for obsolete MSHTA)
-  * 🔌 [SocketSaber](https://github.com/EgorBron/SocketSaber)🥶 - mod and library that allows you to open localhost TCP socket with lots of your current BS activity
-  * 🖼 [BSDRP](https://github.com/EgorBron/BSDRP)🥶 - DRP (Discord Rich Presence) implementation for Beat Saber
-  * 🎋 [GrasscutterCommandGenerator](https://github.com/EgorBron/GrasscutterCommandGenerator)🥶 - fork of [GCG](https://github.com/jie65535/GrasscutterCommandGenerator) with few new features and translations fixes
-  * 📸 [ae2gd](https://github.com/EgorBron/ae2gd)🥶 - plugin for After Effects that imports composition to Geometry Dash level
-  * 🌋 [XGauntlet](https://github.com/EgorBron/XGauntlet)🥶 - Geode mod for Geometry Dash that helps to add more "gauntlets"
+  * ❎ [Move or Die modding manual](https://github.com/EgorBron/MoveOrDie-Modding) - collection of manuals & community docs about modding in MoD
+  * 📢 [Simple Chat Server]() - a simple implementation of chat server and clients for it in both Python and Go.
   * 🤖 [ConsChatGPT](https://github.com/EgorBron/ConsChatGPT)✔ - not so good implementation of ChatGPT (gpt-3.5-turbo) usage through console
   * 💽 [EasyDriveIcon](https://github.com/EgorBron/EasyDriveIcon)✔ - util for change drive icon in Windows explorer
   * 🙀 [WHAT THE CAT?!](https://github.com/EgorBron/WHAT-THE-CAT)✔ - joke "virus" that spams with cat images (and not only cats)
@@ -61,38 +55,29 @@ Interested in and engaged in backend development. I mostly use C# and Python in 
 
 ###### [Blusutils](https://github.com/Blusutils/) projects
   * 🥫 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server for usage in different tasks
-  * 🎞️ [Blusutils Overalls](https://overalls.blusutils.net) - a set of useful web services for interaction between enterprise logic and the end user
+  * 🎞️ [Blusutils Superset](https://superset.blusutils.net) - a set of useful SaaS for interaction between enterprise logic and the end user
     * ⤴️ [RPN - RePosting.NETwork (private)](https://github.com/Blusutils/RPN) - a .NET API to create reposting APIs
     * 📰 [Blusutils Newscenter (private)](https://github.com/Blusutils/Newscenter)🥶 - IfTTT-like news crossposting solution
     * 📜 [forme.ly (private)](https://github.com/Blusutils/forme.ly)🥶 - modern & convient forms builder
     * 👥 [forumά (private)](https://github.com/Blusutils/foruma)🥶 - template for forum pages
     * 🔗 [SLS (private)](https://github.com/Blusutils/SLS)🥶 - short links system
     * 🪪 [BlusuBio (private)](https://github.com/Blusutils/Bio)🥶 - biography landing pages builder
-  * 👷‍♀️ [AniTycoon (private)](https://github.com/Blusutils/AniTycoon)🥶 - yet another Discord bot
-  * 🌄 [DESCEndLib](https://github.com/Blusutils/DESCEndLib)✔ - multipurposal .NET library
 
  ###### Blusutils [Firoapps](https://github.com/Firoapps)
-   * 📹 [CaptureExp (private)](https://github.com/Firoapps/CaptureExp)🥶 - shitty motion capture implementation for VR and exportion to some 3D software
-   * 🎆 [Firochat (private)](https://github.com/Firoapps)🥶 - cross-platform all-in-one messengers client implementation for developers and enthusiasts
-   * 📨 [Migratail (private)](https://github.com/Firoapps/Migratail)🥶 - helps to migrate from old mail services, browsers or systems
-   * 🏞 [TurfTooley (private)](https://github.com/EgorBron/TurfTooley)🥶 - wildcard template for any sort of launchers made with mind and some turf
-   * 🪔 [LAMP (private)](https://github.com/Firoapps/LAMP)🥶 - Light All Media Player
+*There's no active projects recently!*
  
 ###### Blusutils x [SyrDB](https://github.com/syrdb)
-  * 🗄 [BDSF.NET](https://github.com/Blusutils/BDSF.NET)🥶 - *Binary Data Store Format* implementation for .NET
-  * 🍕 [SyrD.NET](https://github.com/syrdb/SyrD.NET)🥶 - [SyrDB](https://github.com/syrdb/SyrDB) driver for .NET
-  * 🧀 [SyrBot](https://github.com/Blusutils/Syr)🥶 - Discord bot with great functionality
-  * 🔁 [RouC](https://github.com/Blusutils/RouC)🥶 - the web anonymous **Rou**lette **C**hat
+*There's no active projects recently!*
 </details>
 
 ### Social networks (in order of speed of reply)
 <details><summary>click to reveal</summary>
 
-> If you can/want, please just join the related community (server, channel, etc.) if it exists. And if you sent friend request or DM, describe what are you want as completly as you can. **Please sure to not ask about Python or bots!**
+> If you sent me friend request or DM, please, describe what are you want as completly as you can. **Don't ask about Python or bots, I don't do that anymore!**
 
-💿[Discord (@egorbron)](https://discord.com/users/555638466365489172) or [Discord Server](https://discord.gg/bJkW8SSEeY)
+💿[Discord (@egorbron)](https://discord.com/users/555638466365489172)
 
-🧻[Telegram DM (@egorbronn)](https://t.me/egorbronn) or [channel (@egorbron_sleep, RU)](https://t.me/egorbron_sleep) 
+🧻[Telegram DM (@egorbronn)](https://t.me/egorbronn)
 
 ▶[YouTube (@EgorBron)](https://youtube.com/@EgorBron)
 
@@ -101,8 +86,6 @@ Interested in and engaged in backend development. I mostly use C# and Python in 
 💬[DonationAlerts](https://www.donationalerts.com/c/egorbron)
 
 📧[E-mail (egorbron@inbox.ru)](mailto:egorbron@inbox.ru)
-
-⏹[VK (@egorbronn)](https://vk.com/egorbronn) (inactive, may not reply) 
 
 🟣[osu!profile](https://osu.ppy.sh/users/15136301) (noreply)
  
