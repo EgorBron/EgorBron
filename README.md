@@ -8,7 +8,7 @@
  
 </details>
 
-Hi! My name is Yegor Bron (Егор Брон), 16 y. o. guy born Oct 20.
+Hi! My name is Yegor Bron (Егор Брон), 17 y. o. guy born Oct 20.
 
 I'm from Russia, live in the small town of Saransk.
 
