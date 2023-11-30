@@ -2491,7 +2491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fable-compiler/Fable</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">F# to JavaScript, TypeScript, Python, Rust and Dart Compiler</div>
@@ -2544,7 +2544,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hasherezade/pe-sieve</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).</div>
@@ -3288,7 +3288,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.09m out of 66m repositories</span>
+                                    <span class="gh">ranked 5.09m out of 64.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -3619,7 +3619,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2023, 04:20:33 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2023, 09:24:30 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
