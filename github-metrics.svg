@@ -2476,7 +2476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0xPh0enix/njCrypter</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple Free Crypter for .NET Trojans like njRAT</div>
@@ -2529,7 +2529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>technocreatives/beckon-android</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A safe and correct Bluetooth Low Energy (BLE) library for Android with functional data types and Kotlin Coroutines and RxJava2 interface.</div>
@@ -2582,7 +2582,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>technocreatives/flatbuffers</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2781,7 +2781,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.09m out of 125m users</span>
+                                    <span class="gh">ranked 2.23m out of 125m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">23</div>
                                     </div>
@@ -3274,7 +3274,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.09m out of 73.4m repositories</span>
+                                    <span class="gh">ranked 5.09m out of 72.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -3605,7 +3605,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2023, 04:21:32 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2023, 09:25:31 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
