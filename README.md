@@ -12,7 +12,7 @@ Hi! My name is Yegor Bron (Егор Брон), 17 y. o. guy born Oct 20.
 
 I'm from Russia, live in the small town of Saransk.
 
-Interested in and engaged in backend development. I mostly use C# in my work, previously used Kotlin and Python, and also I have some knowledge of C, C++, JS/TS, Lua, Dart, Go and Rust.
+Interested in and engaged in backend development. I mostly use C#, Kotlin and Python in my work, but also have some knowledge of C, C++, JS/TS, Lua, Dart and Go.
 
 <details><summary><i>Click here to see more</i></summary>
 
@@ -22,7 +22,7 @@ Interested in and engaged in backend development. I mostly use C# in my work, pr
 
 <sub>Languages</sub>
 
-[![Skills - Languages](https://skillicons.dev/icons?i=cs,py,kotlin,bash,,dart,c,cpp,go,lua,rust,js,ts)](/)
+[![Skills - Languages](https://skillicons.dev/icons?i=cs,py,kotlin,bash,,dart,c,cpp,go,lua,js,ts)](/)
 
 <sub>Platforms</sub>
 
@@ -38,6 +38,8 @@ Interested in and engaged in backend development. I mostly use C# in my work, pr
 </details>
 
 ### My projects
+I decided to hide this section, because I was not so active on GitHub in last few months.
+<!--
 <details><summary>click to reveal</summary>
 
 > Here are all the projects that I work on or have worked on recently.
@@ -47,7 +49,6 @@ Interested in and engaged in backend development. I mostly use C# in my work, pr
 ###### Personal projects
   * 📄 [Some GitHub Gists](https://gist.github.com/EgorBron)
   * ❎ [Move or Die modding manual](https://github.com/EgorBron/MoveOrDie-Modding) - collection of manuals & community docs about modding in MoD
-  * 📢 [Simple Chat Server]() - a simple implementation of chat server and clients for it in both Python and Go.
   * 🤖 [ConsChatGPT](https://github.com/EgorBron/ConsChatGPT)✔ - not so good implementation of ChatGPT (gpt-3.5-turbo) usage through console
   * 💽 [EasyDriveIcon](https://github.com/EgorBron/EasyDriveIcon)✔ - util for change drive icon in Windows explorer
   * 🙀 [WHAT THE CAT?!](https://github.com/EgorBron/WHAT-THE-CAT)✔ - joke "virus" that spams with cat images (and not only cats)
@@ -69,6 +70,7 @@ Interested in and engaged in backend development. I mostly use C# in my work, pr
 ###### Blusutils x [SyrDB](https://github.com/syrdb)
 *There's no active projects recently!*
 </details>
+-->
 
 ### Social networks (in order of speed of reply)
 <details><summary>click to reveal</summary>
@@ -82,8 +84,6 @@ Interested in and engaged in backend development. I mostly use C# in my work, pr
 ▶[YouTube (@EgorBron)](https://youtube.com/@EgorBron)
 
 ⏺[Steam](https://steamcommunity.com/id/EgorBronn/)
-
-💬[DonationAlerts](https://www.donationalerts.com/c/egorbron)
 
 📧[E-mail (egorbron@inbox.ru)](mailto:egorbron@inbox.ru)
 
