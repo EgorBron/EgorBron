@@ -2509,7 +2509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Anjok07/ultimatevocalremovergui</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GUI for a Vocal Remover that uses Deep Neural Networks.</div>
@@ -2562,7 +2562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Foso/Sheasy</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This an Android App that helps you share/manage your files on your Android Device through a WebInterface in the Browser - Built with Ktor and Kotlin-React</div>
@@ -2615,7 +2615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Foso/HtmlToComposeHTMLConverter</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">IntelliJ Idea Plugin that can convert HTML to Compose HTML code. https://plugins.jetbrains.com/plugin/18261-html-to-compose-web-converter</div>
@@ -3306,7 +3306,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.14m out of 82.4m repositories</span>
+                                    <span class="gh">ranked 5.14m out of 77.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -3637,7 +3637,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2024, 15:30:37 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2024, 21:21:01 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
