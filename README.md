@@ -12,7 +12,9 @@ Hi! My name is Yegor Bron (Егор Брон), 17 y. o. guy born Oct 20.
 
 I'm from Russia, live in the small town of Saransk.
 
-Interested in and engaged in backend development. I mostly use C#, Kotlin and Python in my work, but also have some knowledge of C, Java, JS/TS, Lua and Dart.
+Interested in backend development. I mostly use C#, Kotlin and Python in my work, but also have some knowledge of C, Java, JS/TS, Lua and Dart.
+
+Currently learning Jetpack Compose, ASP.NET, Unity Modding (BepInEx, BSIPA and MelonLoader), Next.js, Minecraft Modding (Fabric).
 
 <details><summary><i>Click here to see more</i></summary>
 
@@ -26,15 +28,15 @@ Interested in and engaged in backend development. I mostly use C#, Kotlin and Py
 
 <sub>Platforms</sub>
 
-[![Skills - Platforms](https://skillicons.dev/icons?i=discord,git,github,dotnet,docker,bots,powershell,linux,cmake,gradle,wasm)](/)
+[![Skills - Platforms](https://skillicons.dev/icons?i=discord,git,github,dotnet,docker,bots,powershell,linux,gradle)](/)
 
-<sub>GUI, markup, DBs</sub>
+<sub>UI, markup, DBs</sub>
 
-[![Skills - UI, markup, DBs](https://skillicons.dev/icons?i=bootstrap,jquery,godot,unity,nextjs,,md,html,css,svg,regex,,mongodb,sqlite,postgres)](/)
+[![Skills - UI, markup, DBs](https://skillicons.dev/icons?i=godot,unity,nextjs,,md,html,css,svg,regex,,mongodb,sqlite,postgres)](/)
 
 <sub>Editors</sub>
 
-[![Skills - Editors](https://skillicons.dev/icons?i=idea,vscode,visualstudio,ps,blender,au,pr,ae,figma)](/) 
+[![Skills - Editors](https://skillicons.dev/icons?i=idea,vscode,visualstudio,ps,blender,au,figma)](/) 
 </details>
 
 ### Social networks (in order of speed of reply)
@@ -42,27 +44,27 @@ Interested in and engaged in backend development. I mostly use C#, Kotlin and Py
 
 > If you sent me friend request or DM, please, describe what are you want as completly as you can. **Don't ask about Python or bots, I don't do that anymore!**
 
-* 🧻[Telegram DM (@egorbronn)](https://t.me/egorbronn)
+* 🧾[Telegram DM (@egorbronn)](https://t.me/egorbronn)
 
 * 📧[E-mail (egorbron@inbox.ru)](mailto:egorbron@inbox.ru)
 
 * ▶[YouTube (@EgorBron)](https://youtube.com/@EgorBron)
 
-* ⏺[Steam](https://steamcommunity.com/id/EgorBronn/)
+* 🌪️[Steam](https://steamcommunity.com/id/EgorBronn/)
 
-* 💿[Discord (@egorbron)](https://discord.com/users/555638466365489172) (noreply)
+* 🤖[Discord (@egorbron)](https://discord.com/users/555638466365489172) (noreply)
 
-* 🟣[osu!profile](https://osu.ppy.sh/users/15136301) (noreply)
+<!--* 🟣[osu!profile](https://osu.ppy.sh/users/15136301) (noreply)
  
 * 🐳[Docker Hub](https://hub.docker.com/u/egorbron) (noreply)
 
 * 🏪[Itch](https://egorbron.itch.io/) (noreply)
 
-* ☕[Ko-fi](https://ko-fi.com/egorbron) (noreply)
+* ☕[Ko-fi](https://ko-fi.com/egorbron) (noreply)-->
 
 </details>
 
-### Statistics (not fully precise)
+### Stats
 
 <!--#### Discord Activity
 <details><summary>click to reveal</summary>
