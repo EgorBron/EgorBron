@@ -2494,7 +2494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>limpo1989/kcp-csharp</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">KCP - A Fast and Reliable ARQ Protocol (Zero GC overhead)</div>
@@ -2547,7 +2547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Wilfred/difftastic</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a structural diff that understands syntax 🟥🟩</div>
@@ -2600,7 +2600,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>raamcosta/compose-destinations</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.</div>
@@ -3291,7 +3291,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.17m out of 87.2m repositories</span>
+                                    <span class="gh">ranked 5.17m out of 82m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -3622,7 +3622,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2024, 04:16:56 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Mar 2024, 09:23:28 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
