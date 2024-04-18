@@ -2499,7 +2499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>id-Software/DOOM</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DOOM Open Source Release</div>
@@ -2552,7 +2552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>detekt/detekt</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Static code analysis for Kotlin</div>
@@ -2605,7 +2605,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tencent/puerts</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.</div>
@@ -3627,7 +3627,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Apr 2024, 15:33:25 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Apr 2024, 21:23:25 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
