@@ -2509,7 +2509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ReidSync/kotlin-json-patch</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is an implementation of RFC 6902 JSON Patch written exclusively in Kotlin.</div>
@@ -2562,7 +2562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cashapp/multiplatform-paging</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library that packages AndroidX Paging for Kotlin/Multiplatform.</div>
@@ -2615,7 +2615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mrwhoknows55/find-my-noti</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">notification browser app</div>
@@ -3631,7 +3631,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2024, 04:21:09 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 May 2024, 09:24:23 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
