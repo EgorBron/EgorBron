@@ -16,6 +16,8 @@ Interested in backend development. I mostly use Kotlin, C# and Python in my work
 
 Currently learning Ktor, Jetpack Compose, ~~ASP.NET~~ (dropped), Minecraft Modding (Fabric).
 
+Plugin developer & event creator at [PrimLand](https://primland.ru/)
+
 <details><summary><i>Click here to see more</i></summary>
 
 ### Skills and toolset
