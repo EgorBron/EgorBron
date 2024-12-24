@@ -2483,7 +2483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kirillNay/tg-mini-app</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Library for creating telegram mini apps with Kotlin Multiplatform and Compose Multiplatform</div>
@@ -2820,7 +2820,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.25m out of 152m users</span>
+                                    <span class="gh">ranked 2.25m out of 149m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">26</div>
                                     </div>
@@ -3071,7 +3071,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 421k out of 152m users</span>
+                                    <span class="gh">ranked 421k out of 149m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">36</div>
                                     </div>
@@ -3274,7 +3274,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.50m out of 228m repositories</span>
+                                    <span class="gh">ranked 5.50m out of 229m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -3605,7 +3605,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2024, 04:46:57 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2024, 09:31:58 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
