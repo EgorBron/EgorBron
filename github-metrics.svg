@@ -2504,7 +2504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phansier/Coffeegram</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Android, Desktop, iOS apps using Jetpack &amp; Multiplatform Compose</div>
@@ -2837,7 +2837,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.14m out of 153m users</span>
+                                    <span class="gh">ranked 2.15m out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">27</div>
                                     </div>
@@ -3088,7 +3088,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 400k out of 153m users</span>
+                                    <span class="gh">ranked 400k out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">38</div>
                                     </div>
@@ -3622,7 +3622,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jan 2025, 15:42:18 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jan 2025, 21:29:43 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
