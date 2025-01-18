@@ -8,15 +8,15 @@
  
 </details>
 
-Hi! My name is Yegor Bron (Егор Брон), 17 y. o. guy born Oct 20.
+<!-- a small note to myself: pls rewrite it! this is a piece of crap! -->
+
+Hi! My name is Yegor Bron (Егор Брон), 18 y. o. guy born Oct 20.
 
 I'm from Russia, live in the small town of Saransk.
 
-Interested in backend development. I mostly use Kotlin, C# and Python in my work, but also have some knowledge of C, Java, JS/TS and Lua.
+Interested in mobile and backend development. I mostly use Kotlin in my work, also C# and Python in past. Have some knowledge of C, Java, JavaScript/TypeScript, PowerShell and Lua (PlutoLang dialect).
 
-Currently learning Ktor, Jetpack Compose, ~~ASP.NET~~ (dropped), Minecraft Modding (Fabric).
-
-Plugin developer & event creator at [PrimLand](https://primland.ru/)
+Currently learning Ktor, Jetpack Compose & Compose Multiplatform, ~~ASP.NET~~ (dropped), Minecraft Modding (Fabric).
 
 <details><summary><i>Click here to see more</i></summary>
 
@@ -26,11 +26,11 @@ Plugin developer & event creator at [PrimLand](https://primland.ru/)
 
 <sub>Languages</sub>
 
-[![Skills - Languages](https://skillicons.dev/icons?i=kotlin,cs,py,,c,java,lua,js,ts)](/)
+[![Skills - Languages](https://skillicons.dev/icons?i=kotlin,,cs,py,,c,java,lua,js,ts)](/)
 
 <sub>Platforms</sub>
 
-[![Skills - Platforms](https://skillicons.dev/icons?i=discord,git,github,dotnet,docker,bots,powershell,linux,gradle)](/)
+[![Skills - Platforms](https://skillicons.dev/icons?i=git,github,dotnet,docker,bots,powershell,linux,gradle)](/)
 
 <sub>Markup and DBs</sub>
 
@@ -38,7 +38,7 @@ Plugin developer & event creator at [PrimLand](https://primland.ru/)
 
 <sub>Editors</sub>
 
-[![Skills - Editors](https://skillicons.dev/icons?i=idea,vscode,visualstudio,figma,ps,blender,au)](/) 
+[![Skills - Editors](https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,figma,ps,blender,au)](/) 
 </details>
 
 ### Social networks (in order of speed of reply)
@@ -48,18 +48,19 @@ Plugin developer & event creator at [PrimLand](https://primland.ru/)
 
 * 🧾[Telegram DM (@egorbronn)](https://t.me/egorbronn)
 
-* 📧[E-mail (egorbron@inbox.ru)](mailto:egorbron@inbox.ru)
-
-* ▶[YouTube (@EgorBron)](https://youtube.com/@EgorBron) (inactive)
+* 📧[E-mail (egorbron@inbox.ru)](mailto:egorbron@inbox.ru) | [Blusutils (egorbron@blusutils.net) (will work soon)](???)
 
 * 🌪️[Steam](https://steamcommunity.com/id/EgorBronn/)
 
 * 🤖[Discord (@egorbron)](https://discord.com/users/555638466365489172) (noreply)
 
+* ▶[YouTube (@EgorBron)](https://youtube.com/@EgorBron) (inactive)
+
 </details>
 
 ### Stats
 
+<!--
 #### Discord Activity
 <details><summary>click to reveal</summary>
 <a href="https://discord.com/users/555638466365489172">
@@ -69,7 +70,7 @@ Plugin developer & event creator at [PrimLand](https://primland.ru/)
     width=300
   />
 </a>
-</details>-
+</details>-->
  
 #### GitHub
 <details><summary>click to reveal</summary>
