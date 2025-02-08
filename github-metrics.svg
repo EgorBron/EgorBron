@@ -2447,7 +2447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kdroidFilter/ComposeNativeTray</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ComposeTray is a Kotlin library that provides a simple way to create system tray applications with native support for Linux and Windows. This library allows you to add a system tray icon, tooltip, and menu with various options in a Kotlin DSL-style syntax.</div>
@@ -2500,7 +2500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kashif-E/KOllama</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A UI client for Ollama written in Compose Multiplatform  focused on running Deepseek r1 locally</div>
@@ -2553,7 +2553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JetBrains/compose-hot-reload</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Compose Hot Reload</div>
@@ -3571,7 +3571,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Feb 2025, 15:39:56 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2025, 21:27:53 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
