@@ -1,6 +1,6 @@
 name: Metrics Blusutils
 on:
-  push: {branches: ["master", "main"]}
+  #push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
