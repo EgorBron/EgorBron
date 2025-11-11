@@ -1,12 +1,10 @@
 # Egor Bron
 
-Hi! My name is Yegor Bron (Егор Брон), 18 y. o. guy born Oct 20.
+Hi! My name is Yegor Bron (Егор Брон), 19 y. o. guy born Oct 20.
 
 I'm from Russia, live in the small town of Saransk.
 
-Interested in backend and mobile development. I mostly use Kotlin and 1C:Enterprise in my work, and C# and Python in past. Have some knowledge of C (C11), Java, JavaScript/TypeScript, PowerShell.
-
-Currently learning 1C:Enterprise 8.3, Ktor, Kotlin Multiplatform, Jetpack Compose & Compose Multiplatform, Minecraft Modding (Fabric).
+Interested in frontend, backend and mobile development. I mostly use Javascript/Typescript, Kotlin, C# and Python in my work. Have some knowledge of C (C11), Java, PowerShell.
 
 <a href="mailto:bron@blusutils.net">
 <picture>
@@ -28,9 +26,9 @@ Currently learning 1C:Enterprise 8.3, Ktor, Kotlin Multiplatform, Jetpack Compos
 
 [![Skills - Languages](https://skillicons.dev/icons?i=kotlin,,cs,py,,js,ts,c,java,lua)](/)
 
-[![Skills - Platforms](https://skillicons.dev/icons?i=git,github,dotnet,docker,bots,powershell,linux,Gradle,ktor)](/)
+[![Skills - Platforms](https://skillicons.dev/icons?i=git,github,gitlab,dotnet,docker,bots,robloxstudio,powershell,nodejs,graphql,Apollo,linux,Gradle,ktor)](/)
 
-[![Skills - UI, markup, DBs](https://skillicons.dev/icons?i=md,html,css,less,latex,regex,,mongodb,sqlite,postgres,supabase)](/)
+[![Skills - UI, markup, DBs](https://skillicons.dev/icons?i=react,html,css,less,md,obsidian,latex,regex,,mongodb,sqlite,postgres,supabase)](/)
 
 [![Skills - Editors](https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,figma)](/) 
 
