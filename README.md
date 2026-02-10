@@ -24,7 +24,7 @@ Interested in frontend, backend and mobile development. Currently I work in Java
 
 <!--<details><summary>click to reveal</summary>-->
 
-[![Skills - Languages](https://skillicons.dev/icons?i=ts,js,,py,,kotlin,cs,,powershell,c,java,lua)](/)
+[![Skills - Languages](https://skillicons.dev/icons?i=ts,js,,go,py,,kotlin,cs,,powershell,c,java,lua)](/)
 
 [![Skills - Platforms](https://skillicons.dev/icons?i=git,github,gitlab,dotnet,docker,bots,robloxstudio,nodejs,graphql,apollo,linux,gradle,ktor)](/)
 
