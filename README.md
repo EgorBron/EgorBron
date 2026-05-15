@@ -1,10 +1,8 @@
-# Egor Bron
+Hi! My name is Yegor Bron (Егор Брон), 19 y. o. guy born Oct 20. I'm from Russia, live & work in Saransk.
 
-Hi! My name is Yegor Bron (Егор Брон), 19 y. o. guy born Oct 20.
+Full-stack dev. Interested in both frontend, backend and mobile development. Currently I work in Javascript/Typescript (mostly React, sometimes Svelte or Vanilla JS for hobby projects); use Python sometimes, learning Golang just for fun; in past used C# (damn ASP.NET), Kotlin (Android, Multiplatform, Ktor). Have some knowledge of PowerShell, Java, C and Lua.
 
-I'm from Russia, live & work in the small town of Saransk.
-
-Interested in frontend, backend and mobile development. Currently I work in Javascript/Typescript (mostly React, sometimes Svelte or Vanilla JS for hobby projects); use Python sometimes, learning Golang just for fun; in past used C# (damn ASP.NET), Kotlin (Android, Multiplatform, Ktor). Have some knowledge of PowerShell, Java, C and Lua.
+Automation is the future.
 
 <a href="mailto:bron@blusutils.net">
 <picture>
@@ -23,8 +21,6 @@ Interested in frontend, backend and mobile development. Currently I work in Java
 <details><summary><i></i></summary>
 
 yes there's pretty much things I know
-
-<!--<details><summary>click to reveal</summary>-->
 
 [![Skills - Languages](https://skillicons.dev/icons?i=ts,js,,go,py,,kotlin,cs,,powershell,c,java,lua)](/)
 
